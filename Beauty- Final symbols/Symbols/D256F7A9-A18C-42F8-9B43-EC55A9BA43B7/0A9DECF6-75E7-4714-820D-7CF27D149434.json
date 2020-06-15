@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Medium",
-              "size": 12
+              "size": 14
             }
           },
           "kerning": 0,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 53,
+    "width": 156,
     "x": 16,
-    "y": 253
+    "y": 250
   },
-  "glyphBounds": "{{0, 2}, {53, 10}}",
+  "glyphBounds": "{{0, 2}, {62, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Medium",
-            "size": 12
+            "size": 14
           }
         },
         "kerning": 0,
@@ -148,5 +148,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
