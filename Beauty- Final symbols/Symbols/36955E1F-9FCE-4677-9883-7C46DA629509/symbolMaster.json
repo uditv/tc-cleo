@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 460,
   "clippingMaskMode": 0,
   "do_objectID": "36955E1F-9FCE-4677-9883-7C46DA629509",
   "exportOptions": {
@@ -50,11 +50,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "1029B179-9460-45B8-A1FA-E18E54A87826"
+    },
+    {
+      "class": "group",
+      "id": "8C5E36DA-D6A4-4152-8A16-3BB946947DAD"
     },
     {
       "class": "group",
@@ -68,6 +72,11 @@
   "name": "Seller",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2630A3E6-38A2-421A-8262-CF25C0FA14F6_stringValue"
+    }
   ],
   "presetDictionary": {
   },
