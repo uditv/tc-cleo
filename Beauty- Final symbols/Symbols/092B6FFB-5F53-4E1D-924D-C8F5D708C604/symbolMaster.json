@@ -9,9 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 913,
+  "changeIdentifier": 173,
   "clippingMaskMode": 0,
-  "do_objectID": "9D2ACDB7-B7E0-4D1A-A17E-84A989BAF273",
+  "do_objectID": "092B6FFB-5F53-4E1D-924D-C8F5D708C604",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 46,
+    "height": 18,
+    "width": 62,
     "x": 5016,
-    "y": 32
+    "y": 64
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,24 +50,21 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "B4834D70-ADEB-434B-80CC-3F0F67242023"
-    },
-    {
-      "class": "text",
-      "id": "F3F97164-398A-4DF8-BECE-1A2E5E775D40"
-    },
-    {
-      "class": "shapePath",
-      "id": "84BC204E-3F3E-4180-9B2F-CDA7738294FC"
+      "id": "81CA6E3C-9DDC-4162-A76C-6EAA5C6694D8"
     }
   ],
-  "name": "a/rating/carousel/Yellow",
-  "nameIsFixed": true,
+  "name": "a/Ratings lozenge",
+  "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A25E309-AA83-476F-A4B5-B4BE4E7393F7_stringValue"
+    }
   ],
   "presetDictionary": {
   },
@@ -110,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2B7AEEB8-1B9B-4C0E-99F1-458148378C7E",
+    "do_objectID": "88FE3C63-A7D0-40A9-86BF-01432708944E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,7 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A565DF1B-F6E1-480E-A407-7723055ACDE6",
+  "symbolID": "9843CD20-69EC-4553-AA75-B47F59BE77E2",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
