@@ -17,27 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 12
+              "size": 11
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 10,
+            "minimumLineHeight": 10
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Lipstick"
+    "string": "2.8"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "39F40EBA-6BAA-4CBD-9006-8AC3885CA950",
+  "do_objectID": "B1CAC013-56DF-44D7-91A5-575C7989E265",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 44,
-    "x": 18,
-    "y": 86
+    "height": 10,
+    "width": 17,
+    "x": 19,
+    "y": 1.5
   },
-  "glyphBounds": "{{1, 2}, {42, 12}}",
+  "glyphBounds": "{{0, 1}, {16, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lipstick",
+  "name": "2.8",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "475EFE6E-0019-4158-8FFD-DC5018DC0861",
+    "do_objectID": "9D359723-4548-44F9-87AC-B0E4818C83ED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -129,14 +131,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 12
+            "size": 11
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 10,
+          "minimumLineHeight": 10
         },
         "textStyleVerticalAlignmentKey": 0
       },

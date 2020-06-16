@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B1CAD6EB-603C-42E3-B309-4321A18B4C16",
+  "do_objectID": "EAE91036-A160-400D-9E57-012095D77F5A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 219,
-    "width": 164.7522935779817,
-    "x": -8.137614678899155,
-    "y": -9
+    "constrainProportions": false,
+    "height": 156,
+    "width": 375,
+    "x": 0,
+    "y": 1817
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/b54281c93bfd28ae41f241b9582c569b7afe6f23.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "m/selection/pincode",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "82306E43-51F9-4249-93A5-5F80C535D46C",
+    "do_objectID": "7797A68C-5BB3-4CE0-B462-E5EFC9A9939F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "E9D98D45-2BFA-45F7-A613-787B38652B0D",
+  "verticalSpacing": 0
 }
