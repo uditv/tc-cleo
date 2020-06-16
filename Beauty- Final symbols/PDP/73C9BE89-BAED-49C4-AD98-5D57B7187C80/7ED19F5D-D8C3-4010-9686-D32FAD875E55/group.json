@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "48341086-686E-4A3C-AF35-352455D423CA",
+  "do_objectID": "7ED19F5D-D8C3-4010-9686-D32FAD875E55",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 375,
-    "x": 1,
-    "y": 4195
+    "height": 175,
+    "width": 148,
+    "x": 197,
+    "y": 3907
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,18 +30,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "32EABD51-E59C-4300-8840-69DC5C3DE0ED"
+      "id": "0DAB950B-1F2A-480E-B8FC-168775C69943"
     },
     {
-      "class": "text",
-      "id": "965A4659-A634-475D-9B6B-8923F12A08F4"
+      "class": "bitmap",
+      "id": "BA3D74F1-5365-4F0A-A953-9A4CA01B29D3"
     }
   ],
-  "name": "Product listing",
+  "name": "Bitmap Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FC8C7DD2-D9E4-4380-BC2D-2E7CE4E8B876",
+    "do_objectID": "F192B6FD-3469-4638-9924-14252F246C9C",
     "endMarkerType": 0,
     "fills": [
     ],

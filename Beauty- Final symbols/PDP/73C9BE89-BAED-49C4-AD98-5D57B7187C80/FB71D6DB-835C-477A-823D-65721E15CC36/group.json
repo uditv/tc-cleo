@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2F61FFB9-0FDC-4562-A49C-56F0B23B096D",
+  "do_objectID": "FB71D6DB-835C-477A-823D-65721E15CC36",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,24 +14,17 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 60,
+    "width": 375,
+    "x": 1,
+    "y": 4248
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,24 +33,16 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0962BD77-0498-4E06-BA9B-C0DF5557292B"
+      "class": "group",
+      "id": "43B7D163-2E51-4A57-96C6-BAA6C56BA736"
     },
     {
-      "class": "artboard",
-      "id": "BB3CD7CF-9F92-4D41-A65A-25F0DDEC53F3"
-    },
-    {
-      "class": "text",
-      "id": "C1C5E4C6-FAD3-4BF6-90BE-CB4F42FA9EBD"
-    },
-    {
-      "class": "artboard",
-      "id": "6005549D-385C-4296-8804-6D10B181B376"
+      "class": "shapePath",
+      "id": "0B955954-7243-4E3E-8DE5-C821F2333106"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Buy now l Add to bag",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -96,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "087A7B02-6382-45A9-B53E-BEBD7E753A52",
+    "do_objectID": "A0FDEC50-1AD7-4A4C-AC26-543E5F4F6B5C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -107,11 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

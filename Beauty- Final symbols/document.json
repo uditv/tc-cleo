@@ -231,6 +231,42 @@
         },
         "do_objectID": "B105A5DE-4B29-48C0-857C-DE8E1DDBA609",
         "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.08235294117647059,
+          "green": 0.5294117647058824,
+          "red": 0.2
+        },
+        "do_objectID": "BD160557-9776-45E0-A94D-E4B06AAF0C2B",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.6078431372549019,
+          "red": 0.2862745098039216
+        },
+        "do_objectID": "C67BD375-45BF-49BE-877A-DB149EEC3BD1",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8995769619941711,
+          "green": 0.9755943417549133,
+          "red": 0.9235431551933289
+        },
+        "do_objectID": "EAAFCD43-9B8A-40F7-8DAE-9415C5D256DE",
+        "name": ""
       }
     ],
     "colors": [
@@ -366,6 +402,27 @@
         "blue": 0.8823529411764706,
         "green": 0.6078431372549019,
         "red": 0.5725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.08235294117647059,
+        "green": 0.5294117647058824,
+        "red": 0.2
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1215686274509804,
+        "green": 0.6078431372549019,
+        "red": 0.2862745098039216
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8995769619941711,
+        "green": 0.9755943417549133,
+        "red": 0.9235431551933289
       }
     ],
     "do_objectID": "35ECD4E0-AE33-4A51-98C7-5731884E224A",
@@ -6619,8 +6676,8 @@
     "version": 130
   },
   "pages": [
-    "Page 1",
-    "Page 2",
+    "PLP",
+    "PDP",
     "Symbols"
   ],
   "sharedSwatches": {

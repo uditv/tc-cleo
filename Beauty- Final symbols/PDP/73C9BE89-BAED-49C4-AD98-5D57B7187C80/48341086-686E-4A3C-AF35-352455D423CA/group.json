@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E63A787D-3290-46F8-8712-E8EFE15CE305",
+  "do_objectID": "48341086-686E-4A3C-AF35-352455D423CA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 0,
-    "y": 161
+    "height": 44,
+    "width": 375,
+    "x": 1,
+    "y": 4204
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,19 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "B805FBDB-262B-473D-B726-5379D89D188D"
+      "id": "32EABD51-E59C-4300-8840-69DC5C3DE0ED"
     },
     {
-      "class": "shapePath",
-      "id": "39F2C5D4-13A3-4C3E-B8B3-0391D9499763"
+      "class": "text",
+      "id": "965A4659-A634-475D-9B6B-8923F12A08F4"
     }
   ],
-  "name": "Group 26",
-  "nameIsFixed": false,
+  "name": "Product listing",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AF397C7E-D2B3-448E-AF83-00F3DD7184CA",
+    "do_objectID": "FC8C7DD2-D9E4-4380-BC2D-2E7CE4E8B876",
     "endMarkerType": 0,
     "fills": [
     ],
