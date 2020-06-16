@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 171,
   "clippingMaskMode": 0,
-  "do_objectID": "2F61FFB9-0FDC-4562-A49C-56F0B23B096D",
+  "do_objectID": "F8433411-E26F-4101-84F9-00E3FCD56645",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,15 +23,16 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 12,
+    "width": 27,
+    "x": 12801,
+    "y": -24
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -31,61 +41,38 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0962BD77-0498-4E06-BA9B-C0DF5557292B"
-    },
-    {
       "class": "text",
-      "id": "C1C5E4C6-FAD3-4BF6-90BE-CB4F42FA9EBD"
-    },
-    {
-      "class": "artboard",
-      "id": "13988BA8-882B-48CE-A142-4AC6A7139178"
-    },
-    {
-      "class": "artboard",
-      "id": "5FFFBEA2-687E-4BB0-A2CA-AD879423A34B"
-    },
-    {
-      "class": "artboard",
-      "id": "07062CA7-7B52-41BD-AAA3-93FA7B1BC0E5"
-    },
-    {
-      "class": "artboard",
-      "id": "25C326BB-8C2A-4EDE-9D96-940B125A53A1"
-    },
-    {
-      "class": "artboard",
-      "id": "9D731051-CDC4-40A5-9A13-FAFC904C686F"
-    },
-    {
-      "class": "artboard",
-      "id": "9610E2F4-E19D-480A-B62F-C18A3A6B0D73"
-    },
-    {
-      "class": "artboard",
-      "id": "29A153FD-0370-4293-BDAA-017FA2CA5055"
-    },
-    {
-      "class": "artboard",
-      "id": "2DAFA33D-FA7E-48C3-8EBF-A7E6DF6095F8"
+      "id": "31494667-B89A-462F-9789-6BFDB09DF5AC"
     }
   ],
-  "name": "Fragrances",
+  "name": "a/PLP/vol",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31494667-B89A-462F-9789-6BFDB09DF5AC_stringValue"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -120,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "087A7B02-6382-45A9-B53E-BEBD7E753A52",
+    "do_objectID": "578B08B2-524C-4EA5-8867-2AB4DD1488D3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,6 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "58D0FDEB-12A1-43B0-8124-61ADA7BDADCF",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2F61FFB9-0FDC-4562-A49C-56F0B23B096D",
+  "do_objectID": "02BD8055-3C7E-4585-A857-12D19F3E9AB5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,24 +14,17 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 24,
+    "width": 99,
+    "x": 14,
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,47 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0962BD77-0498-4E06-BA9B-C0DF5557292B"
+      "class": "oval",
+      "id": "F5FE1FAD-5CE0-40FA-916C-5C852E4393EF"
     },
     {
       "class": "text",
-      "id": "C1C5E4C6-FAD3-4BF6-90BE-CB4F42FA9EBD"
+      "id": "505467B6-63C3-4816-A4AF-EDDC857C69C1"
     },
     {
-      "class": "artboard",
-      "id": "13988BA8-882B-48CE-A142-4AC6A7139178"
-    },
-    {
-      "class": "artboard",
-      "id": "5FFFBEA2-687E-4BB0-A2CA-AD879423A34B"
-    },
-    {
-      "class": "artboard",
-      "id": "07062CA7-7B52-41BD-AAA3-93FA7B1BC0E5"
-    },
-    {
-      "class": "artboard",
-      "id": "25C326BB-8C2A-4EDE-9D96-940B125A53A1"
-    },
-    {
-      "class": "artboard",
-      "id": "9D731051-CDC4-40A5-9A13-FAFC904C686F"
-    },
-    {
-      "class": "artboard",
-      "id": "9610E2F4-E19D-480A-B62F-C18A3A6B0D73"
-    },
-    {
-      "class": "artboard",
-      "id": "29A153FD-0370-4293-BDAA-017FA2CA5055"
-    },
-    {
-      "class": "artboard",
-      "id": "2DAFA33D-FA7E-48C3-8EBF-A7E6DF6095F8"
+      "class": "group",
+      "id": "BEBDF152-D1E4-4662-9842-13AC2C91165E"
     }
   ],
-  "name": "Fragrances",
+  "name": "Floral icon",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,7 +58,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 7.5,
       "saturation": 1,
       "type": 0
     },
@@ -120,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "087A7B02-6382-45A9-B53E-BEBD7E753A52",
+    "do_objectID": "E567E121-6CFB-4664-A5ED-350A2BAC61E5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

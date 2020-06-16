@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2F61FFB9-0FDC-4562-A49C-56F0B23B096D",
+  "do_objectID": "A68AFC7F-F82F-40DC-977A-A5096918B9EB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,74 +14,51 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 87,
+    "width": 389,
+    "x": 10,
+    "y": 52
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0962BD77-0498-4E06-BA9B-C0DF5557292B"
+      "class": "group",
+      "id": "2C3A01BB-3F35-4428-A4CD-3C0228D08B2B"
     },
     {
-      "class": "text",
-      "id": "C1C5E4C6-FAD3-4BF6-90BE-CB4F42FA9EBD"
+      "class": "group",
+      "id": "F5F7D726-6853-4ABB-B707-2101BAA1A0F7"
     },
     {
-      "class": "artboard",
-      "id": "13988BA8-882B-48CE-A142-4AC6A7139178"
+      "class": "group",
+      "id": "CCCCAA69-932F-4FC9-B178-75368F7DA21C"
     },
     {
-      "class": "artboard",
-      "id": "5FFFBEA2-687E-4BB0-A2CA-AD879423A34B"
+      "class": "group",
+      "id": "61500C28-F40F-423A-8EA5-A211A8CDB1A2"
     },
     {
-      "class": "artboard",
-      "id": "07062CA7-7B52-41BD-AAA3-93FA7B1BC0E5"
+      "class": "group",
+      "id": "5B5A2F42-5495-4C8D-A3A8-0758A351F780"
     },
     {
-      "class": "artboard",
-      "id": "25C326BB-8C2A-4EDE-9D96-940B125A53A1"
-    },
-    {
-      "class": "artboard",
-      "id": "9D731051-CDC4-40A5-9A13-FAFC904C686F"
-    },
-    {
-      "class": "artboard",
-      "id": "9610E2F4-E19D-480A-B62F-C18A3A6B0D73"
-    },
-    {
-      "class": "artboard",
-      "id": "29A153FD-0370-4293-BDAA-017FA2CA5055"
-    },
-    {
-      "class": "artboard",
-      "id": "2DAFA33D-FA7E-48C3-8EBF-A7E6DF6095F8"
+      "class": "group",
+      "id": "A395DB6E-BEE9-4DCD-8E1B-C6FA09ED667C"
     }
   ],
-  "name": "Fragrances",
-  "nameIsFixed": true,
+  "name": "Group 41",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -120,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "087A7B02-6382-45A9-B53E-BEBD7E753A52",
+    "do_objectID": "141FD4B1-3F08-4AA4-8BC5-451A6D55FDCD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,11 +108,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
