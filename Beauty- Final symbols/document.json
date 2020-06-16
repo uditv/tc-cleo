@@ -9,6 +9,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "296A1078-4CE0-47AA-AA80-BC157C0D3A28"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
           "blue": 0.9748883928571429,
           "green": 0.9748883928571429,
           "red": 0.9748883928571429
@@ -237,11 +248,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1215686274509804,
-          "green": 0.6078431372549019,
-          "red": 0.2862745098039216
+          "blue": 0.08235294117647059,
+          "green": 0.5294117647058824,
+          "red": 0.2
         },
-        "do_objectID": "C98FAFA1-CF88-45B9-A1B3-3E0D4C7BAC0B",
+        "do_objectID": "9647B2FC-59CD-4E6B-B5E0-C1AA3ABC1859",
         "name": ""
       },
       {
@@ -249,11 +260,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.08235294117647059,
-          "green": 0.5294117647058824,
-          "red": 0.2
+          "blue": 0.1215686274509804,
+          "green": 0.6078431372549019,
+          "red": 0.2862745098039216
         },
-        "do_objectID": "9647B2FC-59CD-4E6B-B5E0-C1AA3ABC1859",
+        "do_objectID": "C98FAFA1-CF88-45B9-A1B3-3E0D4C7BAC0B",
         "name": ""
       },
       {
@@ -282,6 +293,13 @@
       }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
       {
         "_class": "color",
         "alpha": 1,
@@ -418,16 +436,16 @@
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.1215686274509804,
-        "green": 0.6078431372549019,
-        "red": 0.2862745098039216
+        "blue": 0.08235294117647059,
+        "green": 0.5294117647058824,
+        "red": 0.2
       },
       {
         "_class": "color",
         "alpha": 1,
-        "blue": 0.08235294117647059,
-        "green": 0.5294117647058824,
-        "red": 0.2
+        "blue": 0.1215686274509804,
+        "green": 0.6078431372549019,
+        "red": 0.2862745098039216
       },
       {
         "_class": "color",
