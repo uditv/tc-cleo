@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3809,
+    "height": 3755,
     "width": 375,
     "x": 3126,
     "y": -2897
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -109,8 +109,8 @@
       "id": "1564F30A-674E-47FC-9642-5E6EB44498E7"
     },
     {
-      "class": "group",
-      "id": "9E7FCBE1-DCC8-410D-BF39-4EF464FE5793"
+      "class": "symbolInstance",
+      "id": "7AB3127B-CDFD-44B3-9677-DC10370B7ED6"
     },
     {
       "class": "shapePath",
@@ -135,6 +135,14 @@
     {
       "class": "symbolInstance",
       "id": "99017560-CA54-4E58-BC08-5487FF772F1B"
+    },
+    {
+      "class": "group",
+      "id": "691EEA27-AD2A-4641-A0CE-6F060B6C0EF5"
+    },
+    {
+      "class": "group",
+      "id": "9231E768-C1F9-4B64-B11A-63ACE8041143"
     }
   ],
   "name": "Fragrances Symbols",

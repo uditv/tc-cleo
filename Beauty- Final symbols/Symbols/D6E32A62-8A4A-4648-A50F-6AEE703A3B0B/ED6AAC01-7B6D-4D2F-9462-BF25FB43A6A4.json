@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Medium",
+              "name": "Rubik-MediumItalic",
               "size": 12
             }
           },
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 254,
+    "width": 255,
     "x": 21,
     "y": 447
   },
-  "glyphBounds": "{{0, 2}, {253, 12}}",
+  "glyphBounds": "{{0, 2}, {255, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,7 +127,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Medium",
+            "name": "Rubik-MediumItalic",
             "size": 12
           }
         },
@@ -142,5 +142,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
