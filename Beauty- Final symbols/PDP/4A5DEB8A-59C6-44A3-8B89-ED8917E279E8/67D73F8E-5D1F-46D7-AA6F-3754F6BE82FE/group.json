@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E63A787D-3290-46F8-8712-E8EFE15CE305",
+  "do_objectID": "67D73F8E-5D1F-46D7-AA6F-3754F6BE82FE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,34 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
-    "x": 0,
-    "y": 161
+    "height": 60,
+    "width": 375,
+    "x": 1,
+    "y": 3749
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "B805FBDB-262B-473D-B726-5379D89D188D"
+      "class": "group",
+      "id": "8786274C-9AED-4D32-869E-C08B74AAD2AE"
     },
     {
       "class": "shapePath",
-      "id": "39F2C5D4-13A3-4C3E-B8B3-0391D9499763"
+      "id": "30DE2FFB-CF69-4F58-97CC-7477532F280A"
     }
   ],
-  "name": "Group 26",
-  "nameIsFixed": false,
+  "name": "Buy now l Add to bag",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -81,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AF397C7E-D2B3-448E-AF83-00F3DD7184CA",
+    "do_objectID": "0BA6D176-60F6-47CD-8E41-83AFD1297716",
     "endMarkerType": 0,
     "fills": [
     ],
