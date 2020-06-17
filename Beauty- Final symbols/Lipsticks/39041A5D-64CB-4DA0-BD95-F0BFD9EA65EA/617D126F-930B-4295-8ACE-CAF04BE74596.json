@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
+              "name": "Rubik-Medium",
               "size": 14
             }
           },
@@ -28,16 +28,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 23,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "add arrow for scrolling"
+    "string": " add price"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F025F465-0E00-4932-8761-F141CB28EDB7",
+  "do_objectID": "617D126F-930B-4295-8ACE-CAF04BE74596",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 146,
-    "x": 1644,
-    "y": 6912
+    "width": 66,
+    "x": 2282,
+    "y": 28
   },
-  "glyphBounds": "{{0, 2}, {145, 15}}",
+  "glyphBounds": "{{3, 2}, {63, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "add arrow for scroll",
+  "name": "add price",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8597D56B-E74A-47BE-8C03-F8D372B55D5D",
+    "do_objectID": "B07F2F89-6394-40FA-9595-05147A184F27",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,7 +128,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
+            "name": "Rubik-Medium",
             "size": 14
           }
         },
