@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 816,
     "width": 375,
     "x": 3918,
     "y": 5040
@@ -39,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -301,10 +301,6 @@
       "id": "D777B827-E086-4E00-95A6-71F8A34FCF83"
     },
     {
-      "class": "shapePath",
-      "id": "F6B8CDDD-EBBB-4BC5-B544-DCB36CC97C3D"
-    },
-    {
       "class": "group",
       "id": "19BEE82E-90C8-47D1-B740-9F498171B27B"
     },
@@ -327,6 +323,10 @@
     {
       "class": "symbolInstance",
       "id": "524288D4-2DCC-40A3-8438-1405293AC457"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6B8CDDD-EBBB-4BC5-B544-DCB36CC97C3D"
     }
   ],
   "name": "Shades- List view ",

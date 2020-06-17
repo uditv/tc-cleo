@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 816,
     "width": 375,
     "x": 2720,
     "y": 5040
@@ -39,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -123,10 +123,6 @@
     {
       "class": "group",
       "id": "877246F8-33A1-4D31-9466-CCCBF8A20966"
-    },
-    {
-      "class": "bitmap",
-      "id": "BD77E9E2-DD6E-479E-9DDB-84A8DF493399"
     },
     {
       "class": "group",
@@ -317,10 +313,6 @@
       "id": "B7159860-0996-46BA-8F2C-9B1D03AD74DD"
     },
     {
-      "class": "shapePath",
-      "id": "2DDADE89-6487-4AEF-988C-ABE6348266D8"
-    },
-    {
       "class": "group",
       "id": "403C7CD2-63AF-46D2-BB92-60C2D15D0EC6"
     },
@@ -347,6 +339,10 @@
     {
       "class": "symbolInstance",
       "id": "08BCC40D-1750-4E09-8353-1BF2E56C9CD9"
+    },
+    {
+      "class": "shapePath",
+      "id": "2DDADE89-6487-4AEF-988C-ABE6348266D8"
     }
   ],
   "name": "Shades- Grid view",

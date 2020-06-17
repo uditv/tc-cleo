@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 816,
     "width": 375,
     "x": 4517,
     "y": 5040
@@ -39,8 +39,8 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -282,15 +282,11 @@
     },
     {
       "class": "rectangle",
-      "id": "D7B03167-11AE-4A7B-97ED-0CC8795E21E7"
+      "id": "A032F808-4C67-4511-8B48-D9E65F16FE02"
     },
     {
       "class": "rectangle",
-      "id": "5AEB4C45-9400-40FC-9461-4021088A829F"
-    },
-    {
-      "class": "shapePath",
-      "id": "28C6D0A0-67AD-41AC-819F-2B990AB247A4"
+      "id": "D7B03167-11AE-4A7B-97ED-0CC8795E21E7"
     },
     {
       "class": "group",
@@ -331,6 +327,10 @@
     {
       "class": "symbolInstance",
       "id": "23993E8D-9B0B-424D-94D8-F43487A8A944"
+    },
+    {
+      "class": "shapePath",
+      "id": "28C6D0A0-67AD-41AC-819F-2B990AB247A4"
     }
   ],
   "name": "Shades- List view  Copy",
