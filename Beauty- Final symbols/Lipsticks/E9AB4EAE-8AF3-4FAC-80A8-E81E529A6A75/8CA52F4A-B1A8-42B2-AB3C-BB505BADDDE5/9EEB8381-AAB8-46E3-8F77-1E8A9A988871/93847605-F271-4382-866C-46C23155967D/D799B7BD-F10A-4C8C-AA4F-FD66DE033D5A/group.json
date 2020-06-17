@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6A805027-DF9C-44DA-B1ED-8D403372D2E6",
+  "do_objectID": "D799B7BD-F10A-4C8C-AA4F-FD66DE033D5A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 40,
+    "width": 444,
     "x": 0,
-    "y": 0
+    "y": 82
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,64 +33,32 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "73C9BE89-BAED-49C4-AD98-5D57B7187C80"
-    },
-    {
-      "class": "artboard",
-      "id": "88566DDE-0B86-4250-BC6D-FB6C383C5345"
-    },
-    {
-      "class": "artboard",
-      "id": "651A13FE-FB76-4924-B721-1B639FA90027"
-    },
-    {
-      "class": "artboard",
-      "id": "938E9B4E-522F-428F-B319-5DC3D3446408"
-    },
-    {
-      "class": "artboard",
-      "id": "2058534B-1B7B-40F3-9934-8EA317FF0642"
-    },
-    {
-      "class": "artboard",
-      "id": "8A18BBFD-E20A-4DEB-9DA0-DDA82C19BD79"
-    },
-    {
-      "class": "artboard",
-      "id": "4E9DF953-24C9-4500-9075-F2B51E46681E"
-    },
-    {
-      "class": "artboard",
-      "id": "F2937FF6-3F43-4CCB-973F-EE6A239C72E0"
-    },
-    {
-      "class": "artboard",
-      "id": "7A1DA678-DA1D-41AE-B25B-41FE4E8B2FB6"
-    },
-    {
-      "class": "artboard",
-      "id": "756BCCEA-C4D3-44DD-9C21-21E55A75928C"
-    },
-    {
-      "class": "artboard",
-      "id": "11115F6C-DC79-441C-BBAE-6D15EEDC023B"
-    },
-    {
-      "class": "artboard",
-      "id": "12ACB313-2B22-4E61-8DB6-1D3EB93BA8F7"
+      "class": "group",
+      "id": "3867D106-3049-4CC6-B111-777A432B1ACC"
     },
     {
       "class": "group",
-      "id": "39041A5D-64CB-4DA0-BD95-F0BFD9EA65EA"
+      "id": "8DE6F28D-7682-48BB-895A-E67953C89574"
     },
     {
-      "class": "artboard",
-      "id": "E9AB4EAE-8AF3-4FAC-80A8-E81E529A6A75"
+      "class": "group",
+      "id": "6284C89B-109C-4F4D-8454-92EAEA9625D6"
+    },
+    {
+      "class": "group",
+      "id": "B1B27CB2-520F-4C49-BD4A-7D3F4BF107B8"
+    },
+    {
+      "class": "group",
+      "id": "70091D36-FA1D-40F1-80FF-DAFE315F5D9B"
+    },
+    {
+      "class": "group",
+      "id": "7BC94FAD-5DEC-45F3-A692-09EE1EA141F7"
     }
   ],
-  "name": "Lipsticks",
-  "nameIsFixed": true,
+  "name": "Group 43 Copy",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -136,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "03B4B7DA-E9FF-42E7-A2D7-A89CFF95EEE8",
+    "do_objectID": "10D7B119-1185-4399-90A3-59A854185012",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -147,11 +108,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -409,
-    "guides": [
-    ]
   }
 }

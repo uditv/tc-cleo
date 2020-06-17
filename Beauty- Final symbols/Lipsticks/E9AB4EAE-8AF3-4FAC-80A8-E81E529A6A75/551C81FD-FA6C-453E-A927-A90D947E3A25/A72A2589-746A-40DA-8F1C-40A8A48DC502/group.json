@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6A805027-DF9C-44DA-B1ED-8D403372D2E6",
+  "do_objectID": "A72A2589-746A-40DA-8F1C-40A8A48DC502",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,88 +15,49 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 342,
+    "width": 377,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -486,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "artboard",
-      "id": "73C9BE89-BAED-49C4-AD98-5D57B7187C80"
+      "class": "symbolInstance",
+      "id": "82FF79BA-4A49-4AA4-99AE-A1A03C2E34B0"
     },
     {
-      "class": "artboard",
-      "id": "88566DDE-0B86-4250-BC6D-FB6C383C5345"
+      "class": "symbolInstance",
+      "id": "3B85BF5D-A2AC-4D60-9B77-E34BA07C74AB"
     },
     {
-      "class": "artboard",
-      "id": "651A13FE-FB76-4924-B721-1B639FA90027"
+      "class": "symbolInstance",
+      "id": "F6447693-8BC9-4BDF-A1A7-1F288957EA47"
     },
     {
-      "class": "artboard",
-      "id": "938E9B4E-522F-428F-B319-5DC3D3446408"
-    },
-    {
-      "class": "artboard",
-      "id": "2058534B-1B7B-40F3-9934-8EA317FF0642"
-    },
-    {
-      "class": "artboard",
-      "id": "8A18BBFD-E20A-4DEB-9DA0-DDA82C19BD79"
-    },
-    {
-      "class": "artboard",
-      "id": "4E9DF953-24C9-4500-9075-F2B51E46681E"
-    },
-    {
-      "class": "artboard",
-      "id": "F2937FF6-3F43-4CCB-973F-EE6A239C72E0"
-    },
-    {
-      "class": "artboard",
-      "id": "7A1DA678-DA1D-41AE-B25B-41FE4E8B2FB6"
-    },
-    {
-      "class": "artboard",
-      "id": "756BCCEA-C4D3-44DD-9C21-21E55A75928C"
-    },
-    {
-      "class": "artboard",
-      "id": "11115F6C-DC79-441C-BBAE-6D15EEDC023B"
-    },
-    {
-      "class": "artboard",
-      "id": "12ACB313-2B22-4E61-8DB6-1D3EB93BA8F7"
+      "class": "symbolInstance",
+      "id": "0D7EC136-1E55-4CEA-8ED1-AF8C1973037F"
     },
     {
       "class": "group",
-      "id": "39041A5D-64CB-4DA0-BD95-F0BFD9EA65EA"
+      "id": "EF3774A2-AB16-4383-A2F4-29AFB871BE85"
     },
     {
-      "class": "artboard",
-      "id": "E9AB4EAE-8AF3-4FAC-80A8-E81E529A6A75"
+      "class": "group",
+      "id": "3241EDFD-E6A7-4954-AB6C-1F9E4DD2FEBD"
     }
   ],
-  "name": "Lipsticks",
+  "name": "Biotique",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -136,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "03B4B7DA-E9FF-42E7-A2D7-A89CFF95EEE8",
+    "do_objectID": "98ADBE00-21DC-4563-8427-0945DAA138B7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -147,11 +108,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -409,
-    "guides": [
-    ]
   }
 }
