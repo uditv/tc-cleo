@@ -1,0 +1,176 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D27B7312-D56A-48D9-B410-716DB50ED778",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 347,
+    "width": 376,
+    "x": 0,
+    "y": 1196
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "91790159-0345-400E-A231-8A03BAF7AAF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA34A73A-A525-4325-BA39-A13B722390A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65D7349A-A79C-493A-A390-336CC3D702E9"
+    },
+    {
+      "class": "text",
+      "id": "039B4B24-67A3-4387-BA15-20E96560B6DB"
+    },
+    {
+      "class": "text",
+      "id": "5767C2C2-A270-4D61-94AD-99DF929C69EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BF26E63-EDFC-4416-A64F-3F1310E4D432"
+    },
+    {
+      "class": "text",
+      "id": "BC955A5C-4AF2-42F6-B614-EAFD00296D92"
+    },
+    {
+      "class": "group",
+      "id": "8E26B168-FA4C-48ED-BA5E-EE9C3E6CF098"
+    },
+    {
+      "class": "group",
+      "id": "76EACD54-1EA3-45F8-A9BC-79A330DFDB7A"
+    },
+    {
+      "class": "group",
+      "id": "C58150CD-8444-4934-8B2D-F6F7CA9DE51F"
+    },
+    {
+      "class": "group",
+      "id": "378C0E30-3D18-4EFF-9A98-F859B2D6B870"
+    },
+    {
+      "class": "group",
+      "id": "5862F380-229D-4DD4-95A0-55E29B2F39A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "141B1653-4DF0-4B62-8F0A-B928CD167BAF"
+    }
+  ],
+  "name": "PLP_ Product Copy 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3B88D3CA-F67D-4548-86D8-C81E0BE0062A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "D122BF72-A045-4006-82B2-F1B2029A2974",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 338,
+          "width": 187,
+          "x": 100,
+          "y": 334
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "41E41B73-9345-4037-ADEC-BF0210A00E24",
+        "symbolID": "6164F76D-1D4C-443F-9CF2-4ACDA924B7CC"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "D122BF72-A045-4006-82B2-F1B2029A2974",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 338,
+          "width": 187,
+          "x": 100,
+          "y": 334
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "41E41B73-9345-4037-ADEC-BF0210A00E24",
+        "symbolID": "6164F76D-1D4C-443F-9CF2-4ACDA924B7CC"
+      }
+    }
+  }
+}
