@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97B16E15-AE5C-43A8-B7EA-64FCCAAAD55B",
+  "do_objectID": "8BB96A0D-EDFC-4801-BE26-DEFC03F45612",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 253,
-    "x": 282,
-    "y": 0.002398081534465747
+    "height": 82,
+    "width": 106,
+    "x": 132,
+    "y": 486
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -34,18 +34,18 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "CF3255F1-71F0-4663-B711-8C8903608180"
+      "id": "22848F16-4B52-428F-B125-B47AC623931C"
     },
     {
-      "class": "group",
-      "id": "C86679B4-0349-4A42-B77E-2A9F57516215"
+      "class": "rectangle",
+      "id": "64E80C69-E25F-4F34-8F17-EA2D6B2B9A99"
     },
     {
       "class": "text",
-      "id": "14BC9F01-130B-4BFA-B17D-0BBE9B0AC76D"
+      "id": "5BB4F81C-33A0-4598-93F2-19FA43ABBCD3"
     }
   ],
-  "name": "shutterstock_292078622 copy",
+  "name": "Short story/With subtext Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A5AD130C-96CD-4F0A-921D-8210989A92D0",
+    "do_objectID": "ACEA62FD-0C55-4BD5-A832-AA736438F87B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +96,41 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "06C8A878-1B86-491A-A17B-91A53CD6B311",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 82,
+          "width": 106,
+          "x": 132,
+          "y": 484
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "E6A362E9-75D9-44FF-90C2-FE39AB943B15",
+        "symbolID": "46374D77-3940-48AD-B9AD-ACDC153BE250"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "06C8A878-1B86-491A-A17B-91A53CD6B311",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 82,
+          "width": 106,
+          "x": 132,
+          "y": 484
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "E6A362E9-75D9-44FF-90C2-FE39AB943B15",
+        "symbolID": "46374D77-3940-48AD-B9AD-ACDC153BE250"
+      }
+    }
   }
 }
