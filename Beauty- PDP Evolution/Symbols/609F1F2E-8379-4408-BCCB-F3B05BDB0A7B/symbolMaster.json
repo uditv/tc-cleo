@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1970,
+  "changeIdentifier": 4311,
   "clippingMaskMode": 0,
   "do_objectID": "609F1F2E-8379-4408-BCCB-F3B05BDB0A7B",
   "exportOptions": {
@@ -50,11 +50,75 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "C7A939BA-49DB-4E6D-B399-16D882BA5DCE"
+    },
+    {
       "class": "group",
-      "id": "5653B95B-C704-4C9B-87F7-3D11588217BA"
+      "id": "ED68B30B-64B5-4B7D-8A3E-8D39832CDCC6"
+    },
+    {
+      "class": "group",
+      "id": "70899824-C5D9-46E3-84BD-5F3274157E26"
+    },
+    {
+      "class": "text",
+      "id": "81884B7C-823D-4F43-8650-8E9F307284CD"
+    },
+    {
+      "class": "text",
+      "id": "ED39EE78-F539-4AF6-B421-FA5E5C9A1516"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F83BADA-15FB-4E0E-958A-6B8A1EFE65EC"
+    },
+    {
+      "class": "text",
+      "id": "E79DB64B-1E47-411D-B33B-20B80B04B426"
+    },
+    {
+      "class": "text",
+      "id": "52E9AB4C-8810-4AF0-B016-3C89D8D184CE"
+    },
+    {
+      "class": "text",
+      "id": "0AF6C66D-E25D-474D-8F27-CA18C1A9497F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1702873-2326-4AFA-B81D-271E97DD6727"
+    },
+    {
+      "class": "group",
+      "id": "07521B77-D253-4AB0-98A8-23D5436F4DE8"
+    },
+    {
+      "class": "group",
+      "id": "A964C7DD-F153-4EF6-8C86-84DE5D9C1591"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "887982C5-D88A-48B7-90F2-2599EE070AEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "869DAC72-0BAB-48F3-9A19-A48D87247219"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "216010C8-0B9B-47D1-BFE3-D506367E4FDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B00B98A-168E-436E-A6D3-6D74F2202FA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3971A564-D49F-4D61-BE79-369D02BC952E"
     }
   ],
   "name": "m/plp/fragrance/2",
@@ -64,6 +128,41 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "81884B7C-823D-4F43-8650-8E9F307284CD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0AF6C66D-E25D-474D-8F27-CA18C1A9497F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "216010C8-0B9B-47D1-BFE3-D506367E4FDE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "52E9AB4C-8810-4AF0-B016-3C89D8D184CE_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A9D9E721-65A7-4D56-860A-441B9BB98DFB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0F83BADA-15FB-4E0E-958A-6B8A1EFE65EC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4B00B98A-168E-436E-A6D3-6D74F2202FA6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3971A564-D49F-4D61-BE79-369D02BC952E_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -94,11 +193,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "94D595FC-E3D3-4443-8AA5-D5E087E54682_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A85C3003-789C-4A87-9124-E02172035564_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
