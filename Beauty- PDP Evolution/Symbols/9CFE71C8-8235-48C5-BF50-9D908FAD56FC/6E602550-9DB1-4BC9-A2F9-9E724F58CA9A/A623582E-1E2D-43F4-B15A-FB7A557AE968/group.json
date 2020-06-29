@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 37,
-    "x": 0,
+    "height": 24,
+    "width": 29,
+    "x": 6,
     "y": 0
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -66,15 +66,7 @@
     },
     {
       "class": "shapePath",
-      "id": "3F1C728E-ECBC-49BF-9E25-51BBD155196A"
-    },
-    {
-      "class": "shapePath",
       "id": "6DE13057-0E1C-4801-8D58-952B355429ED"
-    },
-    {
-      "class": "shapePath",
-      "id": "6FA83AC4-471D-45E6-BA18-380421B5C3BB"
     },
     {
       "class": "shapePath",
@@ -102,7 +94,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 13.20000081062318,
+      "radius": 11.00000023841858,
       "saturation": 1,
       "type": 0
     },
