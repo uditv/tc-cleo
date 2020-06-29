@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 25,
   "clippingMaskMode": 0,
   "do_objectID": "7C692191-410E-41D5-BDEE-E687C216DF6E",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,9 +57,24 @@
       "id": "07B37292-B2A6-4D3A-B2DD-4A17D055686E"
     }
   ],
-  "name": "Ingredients",
-  "nameIsFixed": false,
+  "name": "m/Ingredients",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EDACF332-FF56-4142-916A-2B09FB341EAF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B0E60352-D831-484B-B44A-35C18FF178CC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "59D7FCF2-C538-4BB4-9CE5-696E83C5D34D_stringValue"
+    }
   ],
   "presetDictionary": {
   },

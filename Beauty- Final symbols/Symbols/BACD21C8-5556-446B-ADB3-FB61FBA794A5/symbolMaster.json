@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 202,
+  "changeIdentifier": 766,
   "clippingMaskMode": 0,
   "do_objectID": "BACD21C8-5556-446B-ADB3-FB61FBA794A5",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 291,
+    "height": 569,
     "width": 375,
     "x": 1590,
-    "y": 4915
+    "y": 4191
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,11 +50,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "5F20D644-8906-4949-B795-1B79E97C5877"
+      "id": "4BA3EA45-3968-4814-9C9E-A0368C0C33F2"
     }
   ],
   "name": "m/about the brand",
@@ -63,7 +63,27 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "107E4098-B123-4A9E-8286-637BCD00BE39_symbolID"
+      "overrideName": "95BAB5AF-C640-49B2-98F5-1C7B8EEB0D7E_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85D3FAC5-7AAA-4D9D-86FE-0F5FD6D675D5_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F4BB3296-4012-4247-B4B9-882354F80BD9_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7EEB650F-E3B2-4407-BCC2-4C2CC3D59892_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A957D13C-C712-4FC8-A8D9-80B720327224_image"
     }
   ],
   "presetDictionary": {

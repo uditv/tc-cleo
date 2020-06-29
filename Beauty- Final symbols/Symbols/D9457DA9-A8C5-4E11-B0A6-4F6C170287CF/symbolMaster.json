@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 22,
+  "changeIdentifier": 69,
   "clippingMaskMode": 0,
   "do_objectID": "D9457DA9-A8C5-4E11-B0A6-4F6C170287CF",
   "exportOptions": {
@@ -63,15 +63,24 @@
     {
       "class": "text",
       "id": "9477EB91-0734-4011-BC31-A02D438F0DEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55D9CCB3-2FAB-422B-8D01-5777723DEE99"
     }
   ],
-  "name": "Short story/With subtext",
-  "nameIsFixed": false,
+  "name": "Short story/fragrance",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "BF79802E-5643-4905-A993-E331F549A9A2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "55D9CCB3-2FAB-422B-8D01-5777723DEE99_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

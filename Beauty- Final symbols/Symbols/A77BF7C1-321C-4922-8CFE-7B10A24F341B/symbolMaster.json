@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1205,
+  "changeIdentifier": 2151,
   "clippingMaskMode": 0,
   "do_objectID": "A77BF7C1-321C-4922-8CFE-7B10A24F341B",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 824,
+    "height": 1061,
     "width": 375,
     "x": 1590,
-    "y": 5496
+    "y": 5885
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -50,11 +50,31 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "62D8E4A7-E5AC-4F0A-BE1A-ED6224634844"
+      "class": "symbolInstance",
+      "id": "E4DCB099-DE19-4380-8CBF-EC4563136DD7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF195F5E-5F1E-4490-800A-1F036013BE2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "464647DE-0F7E-485A-97A6-1CEA19195800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4C454D7-67D7-41B3-8F0C-3526444686FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "E59D4A33-44BB-47B5-8FD4-4A17DE9A8FAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79F51A76-DEE4-4392-A2CF-041CC3629ACA"
     }
   ],
   "name": "o/product details/fragrance",
@@ -63,7 +83,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5FFB805A-EDE4-4992-BE49-5D5DD465714B_symbolID"
+      "overrideName": "464647DE-0F7E-485A-97A6-1CEA19195800_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 212,
+  "changeIdentifier": 458,
   "clippingMaskMode": 0,
   "do_objectID": "2E1FB36E-9D07-42DD-817A-D879C87E41FE",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 105,
+    "height": 128,
     "width": 375,
     "x": 1590,
-    "y": 4240
+    "y": 3516
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,15 +50,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "33845E2A-F0C7-4FC8-96A4-FCFC963A7252"
+    },
+    {
+      "class": "group",
+      "id": "0BED6EB0-5FAD-409C-B9A8-73B62C8BBDCE"
+    },
     {
       "class": "rectangle",
       "id": "E4BDA273-8300-4BD8-9C3E-725BA5AC2117"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DF13F0F2-9AB3-4EB1-97AC-FFAC7D1273B1"
     }
   ],
   "name": "m/info/GWP",
@@ -67,7 +71,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DF13F0F2-9AB3-4EB1-97AC-FFAC7D1273B1_symbolID"
+      "overrideName": "71D5E14D-E0C8-4A1B-8904-7E04C687E275_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE982D39-FD09-41EC-AFD1-EF38170D97FF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5703C5AC-EA52-47C6-A333-8B1E4F011E33_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE8B8AAD-8DAC-4298-B22E-31FDFEF7D13E_image"
     }
   ],
   "presetDictionary": {

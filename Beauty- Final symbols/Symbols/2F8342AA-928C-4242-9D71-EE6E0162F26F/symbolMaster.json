@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 537,
   "clippingMaskMode": 0,
   "do_objectID": "2F8342AA-928C-4242-9D71-EE6E0162F26F",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 198,
     "width": 335,
     "x": 1590,
-    "y": 1781
+    "y": 1845
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,16 +50,34 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "7F90BFD6-24D3-4E34-AB59-617212403AC0"
+    },
+    {
+      "class": "text",
+      "id": "B2B0A5AA-CA8F-4942-ACB5-20DCBC2EBE96"
+    },
+    {
       "class": "group",
-      "id": "D71EC796-0045-485D-A883-9389CB5FFAD5"
+      "id": "B484D327-DCC6-4DFC-9E2D-7C76F4AFF0AE"
     }
   ],
-  "name": "How to Use",
-  "nameIsFixed": false,
+  "name": "m/How to Use/video",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B2B0A5AA-CA8F-4942-ACB5-20DCBC2EBE96_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "63F420B9-FC05-4FC6-AACF-4E87A7594922_image"
+    }
   ],
   "presetDictionary": {
   },

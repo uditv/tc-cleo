@@ -23,8 +23,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -51,8 +51,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -79,8 +79,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -107,12 +107,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 32,
     "width": 197,
     "x": 46,
-    "y": 13
+    "y": 14
   },
-  "glyphBounds": "{{0, 4}, {152, 30}}",
+  "glyphBounds": "{{0, 3}, {152, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -191,8 +191,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -200,5 +200,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }

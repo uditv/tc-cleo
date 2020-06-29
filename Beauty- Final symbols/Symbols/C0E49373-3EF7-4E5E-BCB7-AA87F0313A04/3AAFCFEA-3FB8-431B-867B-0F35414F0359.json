@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 12
+              "size": 11
             }
           },
           "kerning": 0,
@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "(15%)"
+    "string": "(10% OFF)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 30,
-    "x": 111,
-    "y": 92
+    "width": 51,
+    "x": 112,
+    "y": 90
   },
-  "glyphBounds": "{{0, 0}, {29, 12}}",
+  "glyphBounds": "{{0, 1}, {50, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "(15%)",
+  "name": "(10% OFF)",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -131,7 +131,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 12
+            "size": 11
           }
         },
         "kerning": 0,

@@ -16,6 +16,36 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "PingFangSC-Light",
+              "size": 11
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.592156862745098,
+            "green": 0.592156862745098,
+            "red": 0.592156862745098
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Rubik-Light",
               "size": 11
             }
@@ -30,11 +60,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
-        "location": 0
+        "length": 5,
+        "location": 1
       }
     ],
-    "string": "₹10,000"
+    "string": "₹7,700"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +84,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 41,
+    "width": 34,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {40, 9}}",
+  "glyphBounds": "{{0, 2}, {33, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +97,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "₹4,150",
+  "name": "₹7,700",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
