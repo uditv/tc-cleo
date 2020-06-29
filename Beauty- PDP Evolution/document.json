@@ -4,8 +4,65 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7700266768292683,
+          "green": 0.8923842782598499,
+          "red": 1
+        },
+        "do_objectID": "921B1B41-5A7C-4ABC-8636-B0B9F5B420D8",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.98511294345898,
+          "green": 0.9181211890243902,
+          "red": 1
+        },
+        "do_objectID": "96AC7BAF-CE88-417A-9A4C-086D391931D7",
+        "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7795360480234707,
+          "green": 0.8458500232837606,
+          "red": 0.913864356884058
+        },
+        "do_objectID": "FC71BFE2-C607-4F1D-9E30-937EC31EDDA9",
+        "name": ""
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7700266768292683,
+        "green": 0.8923842782598499,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.98511294345898,
+        "green": 0.9181211890243902,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7795360480234707,
+        "green": 0.8458500232837606,
+        "red": 0.913864356884058
+      }
     ],
     "do_objectID": "48648546-EE90-4B5A-9956-15116D097E57",
     "exportPresets": [
@@ -15545,6 +15602,7 @@
     "PDP",
     "PLP",
     "Short story",
+    "Icons and wheel",
     "Symbols"
   ],
   "sharedSwatches": {

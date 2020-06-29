@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
+              "name": "Rubik-Light",
               "size": 12
             }
           },
@@ -30,161 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 504,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Light",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 17,
-            "minimumLineHeight": 17
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 63,
-        "location": 9
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Regular",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 17,
-            "minimumLineHeight": 17
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 11,
-        "location": 72
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Light",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 17,
-            "minimumLineHeight": 17
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 63,
-        "location": 83
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Regular",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 17,
-            "minimumLineHeight": 17
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 10,
-        "location": 146
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Rubik-Light",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 17,
-            "minimumLineHeight": 17
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 56,
-        "location": 156
       }
     ],
-    "string": "Top notes of citrus, honeydew melon, quince, pineapple, lotus and lily.\nHeart notes are filled with gentle flowers; may rose, jasmine and muguet.\nBase notes of musk, vanilla, peach, sandalwood, orris and vetiver."
+    "string": "Fresh Naturality: From the North, feel the excitement and anticipation of love with French Sage and Turkish Rose.\n- Exotic Luminosity: From the East, live the heart-felt passion of love with Luminous Amber and Middle Eastern Almond notes.\n- Glowing Sensuality: From the South, let a tale of seduction and love unfold with the marriage of Patchouli and Madagascar Vanilla.\n- Unique Modernity: From the West, celebrate the discovery and journey of love with notes of Illumina Musk and Orange Blossom Honey."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -203,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 102,
+    "height": 204,
     "width": 265,
     "x": 54,
-    "y": 236.9999999999998
+    "y": 271
   },
-  "glyphBounds": "{{0, 4}, {262, 95}}",
+  "glyphBounds": "{{0, 4}, {259, 199}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -217,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Top notes of citrus,",
+  "name": "Fresh Naturality: Fr",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -280,7 +130,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
+            "name": "Rubik-Light",
             "size": 12
           }
         },
