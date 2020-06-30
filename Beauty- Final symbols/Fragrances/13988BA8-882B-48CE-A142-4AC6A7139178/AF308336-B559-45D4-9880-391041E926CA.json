@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F77AA5DB-476B-4E53-A618-D822B0E2D628",
+  "do_objectID": "AF308336-B559-45D4-9880-391041E926CA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
+    "height": 1051,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 966
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "3FFD3F24-2F93-4A99-BF43-51EB8A41D7E9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9F366F23-7054-41EF-8035-DAB9E80C6154"
-    }
-  ],
-  "name": "Group 3",
+  "name": "o/product details",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -54,7 +44,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 0.7223476297968398,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "59365A52-DD3E-4502-AF0A-976782C79F75",
+    "do_objectID": "2A8EE65F-2B92-44F0-AEA4-F185C19C815A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "38E4EC8A-776B-4E54-A903-0303408E0B66",
+  "verticalSpacing": 0
 }
