@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3FA558AD-3BD8-48A4-B283-B342048A5378",
+  "do_objectID": "315CBFF1-5A49-4857-93E2-6ECF8014DE92",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 82,
-    "x": 25,
-    "y": 10
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 3168
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "text",
-      "id": "F906771E-6645-436C-BB50-8F8FC63FEC2A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FB4E5F5E-0261-4765-B63B-735618E6D095"
-    },
-    {
-      "class": "group",
-      "id": "44A6ED83-3720-4286-BEBF-D1291B598F31"
-    }
-  ],
-  "name": "Group 11",
+  "layerListExpandedType": 0,
+  "name": "m/stickybar/PLP",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +63,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -85,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6906CA29-82A7-407B-B090-CB2C75AB2E4B",
+    "do_objectID": "9F25BDEA-49FB-45C1-952A-71F4712B5CE3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "39667A92-40D6-4D07-9FFE-7F3AB57439A4",
+  "verticalSpacing": 0
 }
