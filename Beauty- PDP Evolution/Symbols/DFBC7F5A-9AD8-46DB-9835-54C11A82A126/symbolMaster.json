@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 33,
+  "changeIdentifier": 37,
   "clippingMaskMode": 0,
   "do_objectID": "DFBC7F5A-9AD8-46DB-9835-54C11A82A126",
   "exportOptions": {
@@ -60,6 +60,11 @@
   "name": "a/plp/image/1",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0553356F-3C4E-4083-B6A7-F8FADB4FEC3D_image"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

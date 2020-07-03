@@ -16,10 +16,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "jpg",
+        "fileFormat": "png",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
+        "scale": 3,
         "visibleScaleType": 0
       }
     ],
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3248,
+    "height": 3642,
     "width": 375,
     "x": 273,
     "y": -2897
@@ -123,12 +123,12 @@
       "id": "C39EA26E-3F4E-4AB9-A855-09E8BCFEE0A8"
     },
     {
-      "class": "group",
-      "id": "57A0CC5C-98EE-4DD8-AAAB-491205A1AFDC"
-    },
-    {
       "class": "symbolInstance",
       "id": "315CBFF1-5A49-4857-93E2-6ECF8014DE92"
+    },
+    {
+      "class": "group",
+      "id": "57A0CC5C-98EE-4DD8-AAAB-491205A1AFDC"
     }
   ],
   "layout": {

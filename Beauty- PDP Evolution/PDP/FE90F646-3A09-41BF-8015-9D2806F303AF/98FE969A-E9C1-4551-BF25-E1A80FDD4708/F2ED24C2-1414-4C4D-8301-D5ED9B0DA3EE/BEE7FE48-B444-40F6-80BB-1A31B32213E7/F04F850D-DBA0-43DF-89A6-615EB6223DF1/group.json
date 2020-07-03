@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 384,
-    "width": 335,
+    "height": 446,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -39,6 +39,14 @@
     {
       "class": "bitmap",
       "id": "05185C5B-B1EA-4279-9960-4975944C0073"
+    },
+    {
+      "class": "rectangle",
+      "id": "DCAADA31-95F2-4BCC-A6CE-DBAA66C20BBB"
+    },
+    {
+      "class": "rectangle",
+      "id": "B617A894-7E5B-4779-9FB3-8F0C20FF191E"
     }
   ],
   "name": "profilePicAndDetails Copy",

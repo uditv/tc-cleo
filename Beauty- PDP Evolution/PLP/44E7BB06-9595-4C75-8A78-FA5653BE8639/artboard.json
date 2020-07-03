@@ -13,6 +13,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -22,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3082,
+    "height": 2982,
     "width": 375,
     "x": 12425,
     "y": 2929
@@ -30,7 +39,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -74,8 +83,20 @@
       "id": "3676FF97-2E75-48D8-98D0-C40C1CD49BD8"
     },
     {
-      "class": "group",
-      "id": "A2498169-8ED7-4AF7-BDCC-520B29FF71D4"
+      "class": "symbolInstance",
+      "id": "B9816A60-1300-4871-80C0-41237ECB0285"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D3284DB-0194-45EE-B0A5-38EF14D2A115"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D7BDC22-BDED-4896-92D1-591FE921708F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B3952FF-21FA-4196-B653-09C47B4227C4"
     },
     {
       "class": "symbolInstance",
@@ -108,10 +129,14 @@
     {
       "class": "shapeGroup",
       "id": "834976EB-AD3E-492B-94A7-3EB4360E1DB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8428AE2D-AFD0-4542-ADB2-FCAAA857B413"
     }
   ],
-  "name": "iPhone 11 Pro Copy",
-  "nameIsFixed": false,
+  "name": "option 1",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 812,

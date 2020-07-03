@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5035,
+  "changeIdentifier": 7185,
   "clippingMaskMode": 0,
   "do_objectID": "688A0D3F-1FA7-404C-9A31-082F9058C4CE",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 223,
+    "height": 230,
     "width": 376,
     "x": 4540,
-    "y": 829
+    "y": 826
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -89,24 +89,16 @@
       "id": "AD37615B-6B8D-46B9-B278-0904E929E23C"
     },
     {
+      "class": "text",
+      "id": "E602B388-22B2-475C-AC02-84A4A6D64343"
+    },
+    {
       "class": "symbolInstance",
       "id": "F91CEB9C-E3E4-4106-AA0D-110044D346F0"
     },
     {
-      "class": "group",
-      "id": "FAE214BB-B953-43FF-BBEA-2DFDE45A40AA"
-    },
-    {
       "class": "symbolInstance",
       "id": "A3870938-9693-4A75-955D-9675005C456B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2C2AA7F6-E1A6-476F-AB6C-BE0F55DA7CFB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5FE8465E-7733-4EBC-858B-E82F26EFF422"
     },
     {
       "class": "symbolInstance",
@@ -115,6 +107,14 @@
     {
       "class": "symbolInstance",
       "id": "AD0037F7-84A9-481C-9D7D-B2702E16FDF0"
+    },
+    {
+      "class": "group",
+      "id": "FAE214BB-B953-43FF-BBEA-2DFDE45A40AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C2AA7F6-E1A6-476F-AB6C-BE0F55DA7CFB"
     }
   ],
   "name": "m/plp/fragrance/3",
@@ -128,7 +128,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5FE8465E-7733-4EBC-858B-E82F26EFF422_symbolID"
+      "overrideName": "E602B388-22B2-475C-AC02-84A4A6D64343_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A3870938-9693-4A75-955D-9675005C456B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -189,11 +194,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "22CD0102-3616-42F3-A685-75691731182F_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A3870938-9693-4A75-955D-9675005C456B_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

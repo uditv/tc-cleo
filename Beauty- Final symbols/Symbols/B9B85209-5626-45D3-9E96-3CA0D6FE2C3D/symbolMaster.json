@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 189,
+  "changeIdentifier": 1680,
   "clippingMaskMode": 0,
   "do_objectID": "B9B85209-5626-45D3-9E96-3CA0D6FE2C3D",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 232,
-    "width": 210,
+    "height": 200,
+    "width": 150,
     "x": 18568,
     "y": 308
   },
@@ -60,6 +60,11 @@
   "name": "a/plp/image/3",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "378ED6D7-7BA2-4F50-A084-EC08262EE395_image"
+    }
   ],
   "presetDictionary": {
   },
