@@ -1,27 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2937FF6-3F43-4CCB-973F-EE6A239C72E0",
+  "do_objectID": "BB87E2E6-289A-4863-A9DC-FB0F4F11440A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "jpg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,68 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 898,
-    "width": 375,
-    "x": 2266,
-    "y": 6148
+    "height": 282,
+    "width": 20,
+    "x": 10,
+    "y": 34
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "CE3D3972-80D8-434A-B58C-CB58CDB5990D"
+      "class": "text",
+      "id": "F485B860-ACF4-44A6-B549-B2253420DF5D"
     },
     {
-      "class": "group",
-      "id": "EFBD9658-EFEF-4B45-9207-6050135A4322"
+      "class": "text",
+      "id": "7B2A6F99-B576-46D5-9B9B-69727F5837CC"
     },
     {
-      "class": "group",
-      "id": "BC1BF3E0-7061-4DF9-8EE4-31CF755104E2"
+      "class": "text",
+      "id": "27E8A75D-2EBC-4B4A-923C-828D93F16F3E"
     },
     {
-      "class": "group",
-      "id": "D99CDE48-2DA1-42A0-9237-573FA903EAC5"
-    },
-    {
-      "class": "group",
-      "id": "059C480A-2297-48AD-921B-9781733AC72A"
+      "class": "shapePath",
+      "id": "585944B9-908A-4E57-AA21-4015F9938B4A"
     }
   ],
-  "name": "DETAILS DETAILED VIEW Copy",
-  "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone 11 Pro",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -127,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6C269F5A-1976-4D1F-BA41-3AA2ECE74433",
+    "do_objectID": "48A41C48-FE19-41CC-AB0B-DBDFDDCCD162",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -138,11 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
