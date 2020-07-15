@@ -514,6 +514,20 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "0DD52157-5EC2-427F-B853-9D1F4CFDA51A",
+      "fontFamilyName": "Optima",
+      "fontFileName": "Optima.ttc",
+      "options": 0,
+      "postscriptNames": [
+        "Optima-Bold",
+        "Optima-BoldItalic",
+        "Optima-ExtraBlack",
+        "Optima-Italic",
+        "Optima-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "17CF2CF0-8776-4AB7-84DC-F123C41DC959",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-ThinItalic.ttf",
@@ -547,7 +561,7 @@
       "do_objectID": "2B59F870-5C5E-47C3-B234-5528AD0E79BC",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-Semibold.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Lato-Semibold"
       ]
@@ -687,7 +701,7 @@
       "do_objectID": "7D496628-A0EE-42AB-A506-7B681429B9F0",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-SemiboldItalic.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Lato-SemiboldItalic"
       ]
@@ -790,6 +804,16 @@
       "options": 2,
       "postscriptNames": [
         "Overpass-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ADCCDD79-3A82-40B7-8038-8CE090E2E6EA",
+      "fontFamilyName": "Optima",
+      "fontFileName": "Optima-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Optima-Medium"
       ]
     },
     {
@@ -7149,8 +7173,8 @@
     ]
   },
   "meta": {
-    "appVersion": "67.1",
-    "build": 100412,
+    "appVersion": "67.2",
+    "build": 100443,
     "version": 130
   },
   "pages": [

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 100,
+    "height": 188,
     "width": 335,
     "x": 0,
     "y": 419
@@ -31,6 +31,11 @@
   "name": "How to Use",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B2B0A5AA-CA8F-4942-ACB5-20DCBC2EBE96_stringValue",
+      "value": "HOW TO APPLY"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D8E54F00-DF56-4A15-AB89-BF76A4981796",
+  "symbolID": "4F03B076-E14E-49E1-9833-341F80D40E91",
   "verticalSpacing": 0
 }

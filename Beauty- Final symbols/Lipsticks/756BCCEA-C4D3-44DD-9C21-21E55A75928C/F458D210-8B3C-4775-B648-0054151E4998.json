@@ -23,18 +23,18 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 3,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 842,
+        "length": 796,
         "location": 0
       }
     ],
-    "string": "Polybutene, Octyldodecanol, Bis-Diglyceryl Polyacyladipate-2, Tricaprylin, Microcrystalline Wax, Polyethylene, Silica Dimethyl Silylate, Vp/Eicosene Copolymer, Vp/Hexadecene Copolymer, Butyrospermum Parkii (Shea) Butter, Sorbitan Oleate, Silica, Octyldodecyl Neopentanoate, Ethylhexyl Palmitate, Calcium Sodium Borosilicate, Mica, Caprylyl Glycol, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Aroma/Flavor, Benzyl Benzoate, Tribehenin, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Fragrance, Tocopherol, Tocopheryl Acetate, Sorbitan Isostearate, Limonene, Synthetic Fluorphlogopite, Tetrahexyldecyl Ascorbate, Lactic Acid, Tin Oxide, Calcium Aluminum Borosilicate, Polyethylene Terephthalate, Palmitoyl Tripeptide-1, Acrylates Copolymer, Red 7 Lake (Ci 15850), Iron Oxides (Ci 77499, Ci 77491), Titanium Dioxide (Ci 77891).\n"
+    "string": "AcrylatesCopolymer,\nAroma/Flavor,\nBenzylBenzoate,\nBis-Diglyceryl Polyacyladipate-2\nButyrospermum Parkii(Shea)Butter\nButyrospermumParkii(Shea)Butter Unsaponifiables,\nCalcium Aluminum Borosilicate,\nCalcium Sodium Borosilicate, \nCaprylylGlycol,Ci 77491),\nEthylhexylPalmitate,\nFragrance,\nIron Oxides(Ci 77499),\nLactic Acid,\nLimonene,\nMica,\nMicrocrystalline Wax,\nOctyldodecanol,\nOctyldodecyl Neopentanoate,\nPalmitoyl Tripeptide-1,\nPentaerythritylTetra-Di-T-ButylHydroxyhydrocinnamate,Polybutene,Polyethylene,PolyethyleneTerephthalate,Red7Lake(Ci 15850),Silica,SilicaDimethylSilylate,SorbitanIsostearate,SorbitanOleate,SyntheticFluorphlogopite,TetrahexyldecylAscorbate,Tin Oxide,Titanium Dioxide (Ci 77891),Tocopherol,TocopherylAcetate,Tribehenin,Tricaprylin,Vp/EicoseneCopolymer,Vp/HexadeceneCopolymer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 304,
+    "height": 504,
     "width": 284,
     "x": 51,
-    "y": 309
+    "y": 308
   },
-  "glyphBounds": "{{0, 3}, {284, 283}}",
+  "glyphBounds": "{{0, 4}, {280, 498}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,8 +66,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Polybutene, Octyldod",
+  "lineSpacingBehaviour": 3,
+  "name": "AcrylatesCopolymer,",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -137,10 +137,10 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 3,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },

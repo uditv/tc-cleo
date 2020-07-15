@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "changeIdentifier": 489,
   "clippingMaskMode": 0,
   "do_objectID": "88D1C309-A538-47C2-BC5C-601F5B27298A",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 160,
     "width": 158,
     "x": 14535,
-    "y": -24
+    "y": -24.00000000000001
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,13 +57,18 @@
       "id": "92C3E2D3-D0C2-4F60-A564-E0D5C20E7A68"
     }
   ],
-  "name": "a/image/carousel/lipstick",
-  "nameIsFixed": false,
+  "name": "a/image/carousel/lipstick/1",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "75025CB0-51AA-4A35-946B-746DB0BD4856_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DA5AD85D-2096-4BB0-91AD-CC158EC038DB_image"
     }
   ],
   "presetDictionary": {
