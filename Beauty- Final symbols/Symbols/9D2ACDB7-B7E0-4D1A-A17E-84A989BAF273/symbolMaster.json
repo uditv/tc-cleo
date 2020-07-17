@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 913,
+  "changeIdentifier": 914,
   "clippingMaskMode": 0,
   "do_objectID": "9D2ACDB7-B7E0-4D1A-A17E-84A989BAF273",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,6 +68,11 @@
   "name": "a/rating/carousel/Yellow",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3F97164-398A-4DF8-BECE-1A2E5E775D40_stringValue"
+    }
   ],
   "presetDictionary": {
   },
