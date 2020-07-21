@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
-              "size": 11
+              "name": "Rubik-Light",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -25,8 +25,8 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 14,
-            "minimumLineHeight": 14
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -56,9 +56,9 @@
     "height": 290,
     "width": 285,
     "x": 0,
-    "y": 19
+    "y": 17
   },
-  "glyphBounds": "{{0, 3}, {285, 1817}}",
+  "glyphBounds": "{{0, 4}, {284, 2442}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "· Additional instant",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -130,8 +130,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
-            "size": 11
+            "name": "Rubik-Light",
+            "size": 12
           }
         },
         "kerning": 0,
@@ -139,8 +139,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 14,
-          "minimumLineHeight": 14
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         },
         "textStyleVerticalAlignmentKey": 0
       },
