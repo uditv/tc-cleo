@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
   "do_objectID": "45856459-4BF8-4390-B5F9-7E3111D04A15",
   "exportOptions": {
@@ -64,6 +64,11 @@
   "name": "a/offer/t&c",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8B49A8C8-84B3-415E-9416-FEA15032058D_stringValue"
+    }
   ],
   "presetDictionary": {
   },

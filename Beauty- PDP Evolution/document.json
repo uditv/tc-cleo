@@ -148,7 +148,7 @@
       "do_objectID": "231506F6-2CE9-462E-B2B7-75534F7B1187",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-Semibold.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Lato-Semibold"
       ]
@@ -171,6 +171,16 @@
       "options": 2,
       "postscriptNames": [
         "Lato-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2FDBE806-A53F-487B-8C15-70CEB186F81D",
+      "fontFamilyName": "Sacramento",
+      "fontFileName": "Sacramento-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Sacramento-Regular"
       ]
     },
     {
@@ -318,7 +328,7 @@
       "do_objectID": "8708DD69-3522-4FEB-ABE0-AC74E77A378D",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-MediumItalic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Rubik-MediumItalic"
       ]
@@ -498,7 +508,7 @@
       "do_objectID": "F38DB73D-D405-423D-9770-EC9968126BB1",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-SemiboldItalic.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Lato-SemiboldItalic"
       ]
@@ -16034,8 +16044,8 @@
     ]
   },
   "meta": {
-    "appVersion": "67",
-    "build": 100408,
+    "appVersion": "67.2",
+    "build": 100443,
     "version": 130
   },
   "pages": [

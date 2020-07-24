@@ -109,5 +109,26 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 25,
+            "enabled": 1,
+            "modelID": "constraint_ced6aa81-6dba-4c5c-b613-ef8c631ef64c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e4e7612d-1074-46a1-88ec-76a6474eb56a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

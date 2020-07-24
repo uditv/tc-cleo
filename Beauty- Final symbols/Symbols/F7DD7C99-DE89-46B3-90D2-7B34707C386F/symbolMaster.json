@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 27,
+  "changeIdentifier": 28,
   "clippingMaskMode": 0,
   "do_objectID": "F7DD7C99-DE89-46B3-90D2-7B34707C386F",
   "exportOptions": {
@@ -64,6 +64,11 @@
   "name": "a/offer/image/2",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C50CD55-C13A-45A6-949F-532D1898641B_image"
+    }
   ],
   "presetDictionary": {
   },
