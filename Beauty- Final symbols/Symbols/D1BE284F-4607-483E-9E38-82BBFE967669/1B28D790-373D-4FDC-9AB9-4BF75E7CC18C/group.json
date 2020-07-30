@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -41,8 +50,8 @@
       "id": "29D7FBB4-1BAE-4AD5-8EBF-9C271E1807F7"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Sizing/medium/default",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

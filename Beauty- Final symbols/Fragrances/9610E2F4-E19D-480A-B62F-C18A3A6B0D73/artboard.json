@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 856,
     "width": 375,
     "x": 5100,
     "y": -1679
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -81,6 +81,18 @@
     {
       "class": "group",
       "id": "1D5BCB3B-532C-4FEC-B272-9D7066E9F72C"
+    },
+    {
+      "class": "group",
+      "id": "4C54ACA6-2843-4004-83E6-40AC916546F6"
+    },
+    {
+      "class": "group",
+      "id": "B2494407-4FB9-4CCF-A62E-E89EB7BD3263"
+    },
+    {
+      "class": "text",
+      "id": "11CAA3F5-87F6-44FE-ADD0-8C9AD179A22A"
     }
   ],
   "name": "INGREDIENTS Page",

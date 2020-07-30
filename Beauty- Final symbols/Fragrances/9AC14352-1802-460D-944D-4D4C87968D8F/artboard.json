@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 897,
     "width": 375,
     "x": 5613,
     "y": -1679
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,26 +72,30 @@
     },
     {
       "class": "group",
-      "id": "D7C2F622-5EFC-4F8D-B40A-31E48EBE7B08"
-    },
-    {
-      "class": "group",
       "id": "ECE665B6-5267-4BC7-AC04-650EFC0141B4"
     },
     {
       "class": "group",
-      "id": "4C54ACA6-2843-4004-83E6-40AC916546F6"
+      "id": "B68EEB1D-AB16-4BAA-A623-4BE069FD89FD"
     },
     {
       "class": "group",
-      "id": "B2494407-4FB9-4CCF-A62E-E89EB7BD3263"
+      "id": "E37F8F69-9BF6-4B35-A1F2-F0CC2B2BF5BB"
+    },
+    {
+      "class": "group",
+      "id": "8611A754-5E63-4406-A567-A5C3A368EA89"
+    },
+    {
+      "class": "group",
+      "id": "19D4C018-C4AF-4972-A37E-CE28BE315ECA"
     },
     {
       "class": "text",
-      "id": "11CAA3F5-87F6-44FE-ADD0-8C9AD179A22A"
+      "id": "FD8CAA94-1E31-4B4D-A991-E472310E76E8"
     }
   ],
-  "name": "INGREDIENTS Page Without icons",
+  "name": "INGREDIENTS Page V2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

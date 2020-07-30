@@ -19,7 +19,7 @@
     "height": 4,
     "width": 4,
     "x": 0,
-    "y": 7
+    "y": 8
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -225,5 +225,26 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 4,
+            "enabled": 1,
+            "modelID": "constraint_4442282d-c6f2-4153-83eb-3ef7eabe2f26",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 4
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e95701af-12d9-4705-b9c0-66b051444d93",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

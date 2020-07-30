@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -30,19 +39,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "EADA7B9B-8415-44EB-AF52-31F17583976C"
+      "id": "AC32FF8A-72F8-431C-A44E-3618A415E955"
     },
     {
       "class": "shapeGroup",
-      "id": "AC32FF8A-72F8-431C-A44E-3618A415E955"
+      "id": "EADA7B9B-8415-44EB-AF52-31F17583976C"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "Sizing/small/default",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
