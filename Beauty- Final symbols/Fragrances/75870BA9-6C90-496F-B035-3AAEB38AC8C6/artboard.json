@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 946,
+    "height": 988,
     "width": 375,
     "x": 4628,
     "y": -579
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,15 +80,39 @@
     },
     {
       "class": "group",
-      "id": "A6B5F064-4443-4ECD-909F-77531383F3CF"
+      "id": "36F7D4AF-7FFB-468E-8A7A-F03D569C7F0C"
     },
     {
       "class": "group",
-      "id": "509A398C-F197-4D18-BEE7-C65D2EDC1BF2"
+      "id": "25D2CE75-9B20-4EFB-9AD4-7C8C98B22098"
     },
     {
       "class": "group",
-      "id": "DF2E28F2-51F5-4446-A689-5D339F8573EB"
+      "id": "672D6FEB-AE8E-486C-9AE4-7E3E2149649F"
+    },
+    {
+      "class": "group",
+      "id": "3482270B-B803-4F61-8537-6E3529685F0A"
+    },
+    {
+      "class": "group",
+      "id": "3FA0A254-1314-4544-8C5E-2D9A0C1F9210"
+    },
+    {
+      "class": "group",
+      "id": "F4712208-6AF2-4D29-8F33-9A87DB44F6C3"
+    },
+    {
+      "class": "group",
+      "id": "1E62409F-544C-4042-ACBF-AE9640A211C6"
+    },
+    {
+      "class": "group",
+      "id": "A527F93A-563D-47E4-AD63-5E58557307EF"
+    },
+    {
+      "class": "group",
+      "id": "377C2DC5-8B73-494E-A3DD-0C6C85719A10"
     }
   ],
   "name": "DETAILS Page + Set contains",
