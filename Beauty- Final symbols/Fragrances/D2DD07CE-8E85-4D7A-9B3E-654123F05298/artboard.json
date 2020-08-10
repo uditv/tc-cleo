@@ -15,12 +15,12 @@
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 500,
+        "absoluteSize": 0,
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1.388888888888889,
-        "visibleScaleType": 1
+        "scale": 20,
+        "visibleScaleType": 0
       }
     ],
     "includedLayerIds": [
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 854,
+    "height": 812,
     "width": 375,
     "x": 4078,
     "y": -1679
