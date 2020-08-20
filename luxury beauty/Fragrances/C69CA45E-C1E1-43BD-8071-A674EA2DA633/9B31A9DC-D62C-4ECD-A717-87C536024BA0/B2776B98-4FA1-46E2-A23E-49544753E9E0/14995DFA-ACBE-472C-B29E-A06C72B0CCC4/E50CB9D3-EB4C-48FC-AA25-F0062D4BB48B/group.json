@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E50CB9D3-EB4C-48FC-AA25-F0062D4BB48B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 30,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "325B743D-129E-4999-945B-7F8BE8DD8799"
+    },
+    {
+      "class": "group",
+      "id": "98F8E01C-DD8B-46FC-AEDD-3BFAF7C1DF75"
+    }
+  ],
+  "name": "a/ingredients/cruelty",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.53846153846154,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7208C0A5-C948-4D66-AD7C-42F79FAC0FE7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "D7508B66-9C6A-4CDD-A4E6-E6602D8DAB8F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 26,
+          "width": 26,
+          "x": 119,
+          "y": 254
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "477ABEDF-70ED-40B1-B28D-A89B902E898D",
+        "symbolID": "957F1364-5796-4EA6-A865-4F773CED19B5"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "D7508B66-9C6A-4CDD-A4E6-E6602D8DAB8F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 26,
+          "width": 26,
+          "x": 119,
+          "y": 254
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "477ABEDF-70ED-40B1-B28D-A89B902E898D",
+        "symbolID": "957F1364-5796-4EA6-A865-4F773CED19B5"
+      }
+    }
+  }
+}
