@@ -15,12 +15,12 @@
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 0,
+        "absoluteSize": 1000,
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 2,
-        "visibleScaleType": 0
+        "scale": 2.666666666666667,
+        "visibleScaleType": 1
       }
     ],
     "includedLayerIds": [
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4761,
+    "height": 4782,
     "width": 375,
     "x": 960,
     "y": 5040
@@ -40,7 +40,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
