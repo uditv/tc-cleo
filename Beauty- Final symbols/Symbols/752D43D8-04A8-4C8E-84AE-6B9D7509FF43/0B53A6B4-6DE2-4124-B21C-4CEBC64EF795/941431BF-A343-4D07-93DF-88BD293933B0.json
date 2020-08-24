@@ -8,34 +8,35 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.3607843137254902,
-            "green": 0.1098039215686274,
-            "red": 0.8549019607843137
+            "alpha": 0.93,
+            "blue": 0.1294117647058823,
+            "green": 0.1294117647058823,
+            "red": 0.1294117647058823
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 10
+              "size": 14
             }
           },
-          "kerning": 0.01875,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Price"
+    "string": "Gender"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9BD16B72-7736-4104-8FD7-E7AAE4CC8816",
+  "do_objectID": "941431BF-A343-4D07-93DF-88BD293933B0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 24,
-    "x": 0,
-    "y": 0
+    "height": 14,
+    "width": 48,
+    "x": 85,
+    "y": 17
   },
-  "glyphBounds": "{{0, 1}, {24, 9}}",
+  "glyphBounds": "{{0, 2}, {48, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -62,8 +63,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Price",
+  "lineSpacingBehaviour": 3,
+  "name": "Gender",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -103,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "892A5A50-00F3-4B10-97F6-79F99B7E8D86",
+    "do_objectID": "B4BCD059-C216-438B-AF17-5181E741FFEC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,22 +119,23 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.3607843137254902,
-          "green": 0.1098039215686274,
-          "red": 0.8549019607843137
+          "alpha": 0.93,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 10
+            "size": 14
           }
         },
-        "kerning": 0.01875,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         }
       },
       "verticalAlignment": 0
