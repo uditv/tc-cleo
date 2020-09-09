@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "1CA37E57-2D28-429C-ADD1-8390FF488BFE",
+  "do_objectID": "5564AAC1-41C1-4FFC-A014-98BB1713D15F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,45 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 200,
-    "width": 375,
-    "x": 0,
-    "y": 1121
+    "constrainProportions": true,
+    "height": 69,
+    "width": 52,
+    "x": -6,
+    "y": -8
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c1adf4a94fc04de360ac5751f3b8d3a72f647e63.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "m/rnr/customerreview/detailpage copy 6",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "03377F15-EC58-46E5-A08E-250968E71F7A_symbolID",
-      "value": "949BAFF3-77B3-400C-A8CB-31C654012765"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "41693D9B-157C-46E0-A0E5-9C8D408CDBB5/E2A24DDF-2D18-4179-B313-86F25D1C831C_stringValue",
-      "value": "Anaya Purandare"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "FE82DDD1-4A5A-4CFE-B7D5-9CCF3E9DA0CE/07018BFF-D6F0-4900-866C-F22FEDCC6F8A_symbolID",
-      "value": "2545F8B6-2F83-49F7-972D-E967E4331602"
-    }
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +67,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -86,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AEFEA2EC-C883-43CF-80C1-C1CC8807B159",
+    "do_objectID": "E073F193-1EFE-4679-913D-0B681D542A3D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,6 +87,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2CD8425A-73FC-427A-A508-0EC891AF12B6",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 498,
+            "enabled": 1,
+            "modelID": "constraint_61209f62-c63a-41e6-9ea6-91ecfa728034",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 373.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f2f41f81-98d8-48d3-94bd-41dccf56b5e4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
 }

@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "06267D9E-6A78-4DCF-BE86-0720C0A8106F",
+  "do_objectID": "5F44181D-8D5A-4304-8BFF-D7CDC1B8984A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,30 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 64,
-    "width": 245,
-    "x": 20,
-    "y": 103
+    "constrainProportions": true,
+    "height": 80,
+    "width": 62,
+    "x": -23,
+    "y": -26
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c29cd40166a17047ba3ba503aead83b6a362b16d.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Product",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -44,7 +48,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 6.914634146341463,
       "saturation": 1,
       "type": 0
     },
@@ -62,8 +66,8 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "hue": 0,
-      "isEnabled": false,
+      "hue": -0.5615720358569019,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -71,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A87F8EB4-D883-4FF3-B999-1D8EF1B7707E",
+    "do_objectID": "0AA58C69-79B2-4E4C-9E7D-509B68ECBC64",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +86,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "4E1DDCF1-DEAE-4458-9257-89139432A2DF",
-  "verticalSpacing": 0
+  }
 }

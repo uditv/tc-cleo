@@ -1,8 +1,17 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 59,
   "clippingMaskMode": 0,
-  "do_objectID": "1CA37E57-2D28-429C-ADD1-8390FF488BFE",
+  "do_objectID": "D168D391-34FA-4D06-B1B5-716B1F01774A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,43 +24,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 375,
-    "x": 0,
-    "y": 1121
+    "height": 15,
+    "width": 15,
+    "x": 23205,
+    "y": -60
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "m/rnr/customerreview/detailpage copy 6",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "03377F15-EC58-46E5-A08E-250968E71F7A_symbolID",
-      "value": "949BAFF3-77B3-400C-A8CB-31C654012765"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "41693D9B-157C-46E0-A0E5-9C8D408CDBB5/E2A24DDF-2D18-4179-B313-86F25D1C831C_stringValue",
-      "value": "Anaya Purandare"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "FE82DDD1-4A5A-4CFE-B7D5-9CCF3E9DA0CE/07018BFF-D6F0-4900-866C-F22FEDCC6F8A_symbolID",
-      "value": "2545F8B6-2F83-49F7-972D-E967E4331602"
+      "class": "group",
+      "id": "1E2BCC7F-9CDA-4D0A-9E8B-04FA33511BCB"
     }
   ],
+  "name": "Colour Copy 5",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -86,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AEFEA2EC-C883-43CF-80C1-C1CC8807B159",
+    "do_objectID": "A41D034A-7DC2-45DC-9EDD-2A581EA5C3FA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,6 +114,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2CD8425A-73FC-427A-A508-0EC891AF12B6",
-  "verticalSpacing": 0
+  "symbolID": "90541895-F38A-41AB-A209-8B15DDD7A275",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

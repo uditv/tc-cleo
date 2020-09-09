@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1CA37E57-2D28-429C-ADD1-8390FF488BFE",
+  "do_objectID": "45BD1B48-E7F1-43F4-854F-C35565BADEDB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 200,
-    "width": 375,
+    "height": 54,
+    "width": 40,
     "x": 0,
-    "y": 1121
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "m/rnr/customerreview/detailpage copy 6",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "03377F15-EC58-46E5-A08E-250968E71F7A_symbolID",
-      "value": "949BAFF3-77B3-400C-A8CB-31C654012765"
+      "class": "rectangle",
+      "id": "D1BB008D-5308-4849-810C-4CE8E2C629A5"
     },
     {
-      "_class": "overrideValue",
-      "overrideName": "41693D9B-157C-46E0-A0E5-9C8D408CDBB5/E2A24DDF-2D18-4179-B313-86F25D1C831C_stringValue",
-      "value": "Anaya Purandare"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "FE82DDD1-4A5A-4CFE-B7D5-9CCF3E9DA0CE/07018BFF-D6F0-4900-866C-F22FEDCC6F8A_symbolID",
-      "value": "2545F8B6-2F83-49F7-972D-E967E4331602"
+      "class": "bitmap",
+      "id": "1CDD9681-326B-4205-BC72-27164B73E79C"
     }
   ],
+  "name": "Bitmap",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -59,7 +54,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 5.818181818181818,
       "saturation": 1,
       "type": 0
     },
@@ -86,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AEFEA2EC-C883-43CF-80C1-C1CC8807B159",
+    "do_objectID": "90F4FE23-B5E2-49AC-9928-D1C971877E6A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -97,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "2CD8425A-73FC-427A-A508-0EC891AF12B6",
-  "verticalSpacing": 0
+  }
 }

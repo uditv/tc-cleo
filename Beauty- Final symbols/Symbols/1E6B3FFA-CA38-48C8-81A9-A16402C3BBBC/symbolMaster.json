@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 207,
+  "changeIdentifier": 232,
   "clippingMaskMode": 0,
   "do_objectID": "1E6B3FFA-CA38-48C8-81A9-A16402C3BBBC",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 245,
+    "width": 335,
     "x": 22080,
     "y": -88
   },
@@ -50,12 +50,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5190A23E-D69E-4357-ABA7-2B0A620A6E22"
-    },
     {
       "class": "text",
       "id": "1E7C50C0-EF17-4432-82E6-7DE5D063D6DA"
@@ -63,10 +59,14 @@
     {
       "class": "text",
       "id": "5C8A2B3D-B38C-4FBA-99E9-D5F9ECD22DF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "00737F78-CBFB-429B-9B59-AE206F39F9D9"
     }
   ],
-  "name": "Product",
-  "nameIsFixed": false,
+  "name": "o/rnr/Product",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
@@ -76,12 +76,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5C8A2B3D-B38C-4FBA-99E9-D5F9ECD22DF5_stringValue"
+      "overrideName": "00737F78-CBFB-429B-9B59-AE206F39F9D9_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5190A23E-D69E-4357-ABA7-2B0A620A6E22_symbolID"
+      "overrideName": "5C8A2B3D-B38C-4FBA-99E9-D5F9ECD22DF5_stringValue"
     }
   ],
   "presetDictionary": {
