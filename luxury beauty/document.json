@@ -106,6 +106,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "49ED4A15-EFF8-4BEB-889C-69015A884776",
+      "fontFamilyName": "Lustria",
+      "fontFileName": "Lustria-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lustria-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "4B00B42C-4C88-44FA-8FE9-0F3F72009269",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-BlackItalic.ttf",
@@ -219,7 +229,7 @@
       "do_objectID": "B3D69BC7-BACF-49B8-A19A-33CD3188A12D",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-Heavy.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Lato-Heavy"
       ]
@@ -58955,8 +58965,8 @@
     ]
   },
   "meta": {
-    "appVersion": "68",
-    "build": 102490,
+    "appVersion": "68.2",
+    "build": 102594,
     "version": 131
   },
   "pages": [

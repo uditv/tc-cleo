@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 5.030170590106676,
-    "width": 39.68245687749682,
-    "x": 0.1587715612510365,
-    "y": 17.48491470494623
+    "height": 6.051327474211369,
+    "width": 47.61702884263018,
+    "x": 0.1914843683602818,
+    "y": 21.481799514516
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -36,22 +36,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.29979458815946008, 4.8293670338220167}",
+      "curveFrom": "{0.2498388938978488, 4.1831642750032811}",
       "curveMode": 1,
-      "curveTo": "{0.29979458815946008, 4.8293670338220167}",
+      "curveTo": "{0.2498388938978488, 4.1831642750032811}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1.0000000000000142}"
+      "point": "{0, 0.99999999999999978}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.75263523422519574, -3.0595218550645389}",
+      "curveFrom": "{0.62722131037053463, -2.3744806461498316}",
       "curveMode": 1,
-      "curveTo": "{0.75263523422519574, -3.0595218550645389}",
+      "curveTo": "{0.62722131037053463, -2.3744806461498316}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.000000000000117, -6.9806946274037419e-14}"
+      "point": "{0.99999999999999989, 0}"
     }
   ],
   "resizingConstraint": 63,
@@ -74,7 +74,7 @@
       "dashPattern": [
       ],
       "isEnabled": false,
-      "lineCapStyle": 1,
+      "lineCapStyle": 0,
       "lineJoinStyle": 1
     },
     "borders": [
@@ -83,9 +83,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9098039215686274,
-          "green": 0.9098039215686274,
-          "red": 0.9098039215686274
+          "blue": 0.7254901960784313,
+          "green": 0.7294117647058823,
+          "red": 0.7333333333333333
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
