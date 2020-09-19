@@ -9,37 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2980392156862745,
-            "green": 0.1098039215686274,
-            "red": 0.8549019607843137
+            "blue": 0.5607843137,
+            "green": 0.5607843137,
+            "red": 0.5607843137
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Rubik-Regular",
-              "size": 11
+              "name": "Rubik-Light",
+              "size": 14
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Read More"
+    "string": "shipping from brand store"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D1F41553-986C-46CC-A4C7-DED59199C0D9",
+  "do_objectID": "A78A5DAF-DB64-44B1-8875-6807F1ADF16D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 88,
-    "x": 273,
-    "y": 38
+    "height": 17,
+    "width": 164,
+    "x": 3615,
+    "y": -573
   },
-  "glyphBounds": "{{18, 2}, {53, 9}}",
+  "glyphBounds": "{{0, 2}, {163, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,12 +62,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Read More",
+  "lineSpacingBehaviour": 3,
+  "name": "shipping from brand",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
-  "rotation": 90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +103,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C4A2EB9-F52E-418B-A4FD-348DFF8D999D",
+    "do_objectID": "103C676B-EC58-489B-99D3-2F5AF6C2AE3D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,24 +119,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2980392156862745,
-          "green": 0.1098039215686274,
-          "red": 0.8549019607843137
+          "blue": 0.5607843137,
+          "green": 0.5607843137,
+          "red": 0.5607843137
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Rubik-Regular",
-            "size": 11
+            "name": "Rubik-Light",
+            "size": 14
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -148,5 +140,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

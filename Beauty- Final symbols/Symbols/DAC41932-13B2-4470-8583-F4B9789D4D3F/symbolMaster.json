@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 180,
+  "changeIdentifier": 27,
   "clippingMaskMode": 0,
-  "do_objectID": "092B6FFB-5F53-4E1D-924D-C8F5D708C604",
+  "do_objectID": "DAC41932-13B2-4470-8583-F4B9789D4D3F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -24,16 +33,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 62,
-    "x": 5016,
-    "y": 64
+    "height": 26,
+    "width": 14,
+    "x": 6317,
+    "y": -1.77635683940025e-15
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,18 +62,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "81CA6E3C-9DDC-4162-A76C-6EAA5C6694D8"
+      "class": "shapePath",
+      "id": "AF24DE3D-3E49-4D04-A52B-7F0E3A2A6CD6"
     }
   ],
-  "name": "a/Ratings lozenge",
-  "nameIsFixed": false,
+  "name": "a/icon/wishlistfilled",
+  "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0A25E309-AA83-476F-A4B5-B4BE4E7393F7_stringValue"
-    }
   ],
   "presetDictionary": {
   },
@@ -107,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "88FE3C63-A7D0-40A9-86BF-01432708944E",
+    "do_objectID": "B3BF67E4-CF08-43BC-B93B-6EDE91E42AF3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,7 +123,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9843CD20-69EC-4553-AA75-B47F59BE77E2",
+  "symbolID": "35DA0F0F-E385-44E5-9C73-B2C51527DF7E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
