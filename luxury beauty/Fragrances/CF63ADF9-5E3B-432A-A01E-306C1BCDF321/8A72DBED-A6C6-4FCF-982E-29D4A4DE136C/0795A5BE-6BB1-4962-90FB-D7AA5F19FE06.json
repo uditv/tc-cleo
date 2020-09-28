@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.8992296765734266,
+            "alpha": 1,
             "blue": 0.09019607843137258,
             "green": 0.411764705882353,
             "red": 0.5764705882352941
@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lustria-Regular",
+              "name": "Raleway-Regular",
               "size": 13
             }
           },
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 72,
-    "x": 48.5,
+    "height": 15,
+    "width": 69,
+    "x": 50,
     "y": 4
   },
-  "glyphBounds": "{{0, 1}, {72, 12}}",
+  "glyphBounds": "{{1, 2}, {68, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,7 +118,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.8992296765734266,
+          "alpha": 1,
           "blue": 0.09019607843137258,
           "green": 0.411764705882353,
           "red": 0.5764705882352941
@@ -126,7 +126,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lustria-Regular",
+            "name": "Raleway-Regular",
             "size": 13
           }
         },
