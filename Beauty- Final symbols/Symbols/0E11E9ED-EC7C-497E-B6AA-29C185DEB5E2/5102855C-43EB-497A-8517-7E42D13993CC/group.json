@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 14,
+    "height": 36,
+    "width": 36,
     "x": 0,
     "y": 0
   },
@@ -29,9 +29,13 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "4FDDC5A9-14C1-427D-91E5-BF965384A7C3"
+    },
     {
       "class": "shapeGroup",
       "id": "B306AD81-725D-40CB-BE5A-966970A209E8"
@@ -41,7 +45,7 @@
       "id": "EE68338E-FB29-46A8-9EAD-7F8F6D95519E"
     }
   ],
-  "name": "Sizing/35ml/inactive",
+  "name": "Sizing/small/inactive",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

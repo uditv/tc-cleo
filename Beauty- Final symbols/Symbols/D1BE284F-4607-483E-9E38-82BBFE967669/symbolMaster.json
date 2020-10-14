@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 120,
   "clippingMaskMode": 0,
   "do_objectID": "D1BE284F-4607-483E-9E38-82BBFE967669",
   "exportOptions": {
@@ -42,7 +41,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +60,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "327EC5C6-CFF2-4AAF-9AA2-81A894847537"
+    },
     {
       "class": "group",
       "id": "1B28D790-373D-4FDC-9AB9-4BF75E7CC18C"

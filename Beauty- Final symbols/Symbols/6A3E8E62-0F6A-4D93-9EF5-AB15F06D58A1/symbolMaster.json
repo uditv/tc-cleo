@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 590,
   "clippingMaskMode": 0,
   "do_objectID": "6A3E8E62-0F6A-4D93-9EF5-AB15F06D58A1",
   "exportOptions": {
@@ -24,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 267,
+    "height": 268,
     "width": 375,
     "x": 1590,
     "y": 3692
@@ -53,13 +52,26 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "E3BE2B4D-49E2-4BBA-AC46-AF5EC0C367C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FA09EBB-9147-4B5B-9223-A07F959E6152"
+    },
+    {
       "class": "group",
-      "id": "D8BC6D3A-9A80-4565-B0B5-D79452133032"
+      "id": "5B5D1D09-7884-48AD-9865-3B0B438839E4"
     }
   ],
   "name": "m/selection/pincode",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FA09EBB-9147-4B5B-9223-A07F959E6152_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -69,21 +81,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "E3BE2B4D-49E2-4BBA-AC46-AF5EC0C367C2_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4A9A47CD-2A8A-43FA-9E2F-1D4B67915654_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E6A00CBF-3AAD-4E84-8605-598272DA2066_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8DB98A29-1241-47C3-BCE0-F35D5D4A104E_stringValue"
     }
   ],
   "presetDictionary": {

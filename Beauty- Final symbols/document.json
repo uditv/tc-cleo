@@ -302,6 +302,18 @@
         },
         "do_objectID": "49321D87-E387-46FC-869F-724AE158E3C8",
         "name": ""
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8941176470588235,
+          "green": 0.9764705882352941,
+          "red": 1
+        },
+        "do_objectID": "62B06E9D-CB2B-4485-A682-917AF7082A4E",
+        "name": ""
       }
     ],
     "colors": [
@@ -479,6 +491,13 @@
         "blue": 0.4784313725490196,
         "green": 0.4784313725490196,
         "red": 0.4784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8941176470588235,
+        "green": 0.9764705882352941,
+        "red": 1
       }
     ],
     "do_objectID": "35ECD4E0-AE33-4A51-98C7-5731884E224A",
@@ -498,6 +517,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "A7624C01-67F0-4C22-9658-71DDF7EB7393",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -828,7 +850,7 @@
       "do_objectID": "ADCCDD79-3A82-40B7-8038-8CE090E2E6EA",
       "fontFamilyName": "Optima",
       "fontFileName": "Optima-Medium.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Optima-Medium"
       ]
@@ -984,7 +1006,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1204,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -3763,7 +3784,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1215,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -6547,7 +6567,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 874,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6869,7 +6888,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 879,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -7196,7 +7214,6 @@
           "red": 0
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1049,
         "clippingMaskMode": 0,
         "do_objectID": "0428F98C-2B9E-4700-B158-8118B19646DE",
         "exportOptions": {
@@ -7518,7 +7535,6 @@
           "red": 0
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1051,
         "clippingMaskMode": 0,
         "do_objectID": "0428F98C-2B9E-4700-B158-8118B19646DE",
         "exportOptions": {
@@ -7845,7 +7861,6 @@
           "red": 0
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1561,
         "clippingMaskMode": 0,
         "do_objectID": "D35B9326-2E06-48FE-AA9C-9618110AFD30",
         "exportOptions": {
@@ -10676,7 +10691,6 @@
           "red": 0
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1566,
         "clippingMaskMode": 0,
         "do_objectID": "D35B9326-2E06-48FE-AA9C-9618110AFD30",
         "exportOptions": {
@@ -13502,13 +13516,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "885E692F-65EB-4C22-9658-7ADFF7CA0AFE",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "69",
+    "build": 107357,
+    "version": 134
   },
   "pages": [
     "Fragrances",
@@ -13517,7 +13532,320 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "9E526D2F-65EB-4C22-9658-7ADFF7CA04F2",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "5A1D710C-2F88-47AA-AA80-BC157C0D3A28",
+        "name": "1. #FFFFFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FC7226B4-4D71-413C-803A-B272276110D0",
+        "name": "2. #F9F9F9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9748883928571429,
+          "green": 0.9748883928571429,
+          "red": 0.9748883928571429
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9D451A3F-48E0-4553-A93C-61BDD0729EB3",
+        "name": "3. #D5D5D5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8352941176470589,
+          "green": 0.8352941176470589,
+          "red": 0.8352941176470589
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "09D4B946-4DE2-44F1-A98A-03AD85C8BE58",
+        "name": "4. #979797",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592156862745098,
+          "green": 0.592156862745098,
+          "red": 0.592156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9AAB5F43-5EFD-40D8-A175-A266BF8E3E1A",
+        "name": "5. #8D8D8D",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705883,
+          "green": 0.5529411764705883,
+          "red": 0.5529411764705883
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B993299D-1D0C-406A-92B2-6BC3D29E6081",
+        "name": "6. #6C6C6C",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4235294117647059,
+          "green": 0.4235294117647059,
+          "red": 0.4235294117647059
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "98C42B66-737B-40D9-9EDF-1B39DE69AF40",
+        "name": "7. #4A4A4A",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2901960784313725,
+          "green": 0.2901960784313725,
+          "red": 0.2901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B7256159-B424-4C5B-803F-6B21EA1FF8C2",
+        "name": "8. #212121",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9C28E450-D1BD-48BF-95E4-9491C28FAA83",
+        "name": "9. #DA1C5C",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3607843137254902,
+          "green": 0.1098039215686274,
+          "red": 0.8549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A0996B2C-CEC7-4397-8720-C5E41453FD88",
+        "name": "10. #FFEEEB",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.9333333333333333,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "816EBC5D-C97D-46F0-8F2C-90156A4F65CF",
+        "name": "11. #F6D1C1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7568627450980392,
+          "green": 0.8196078431372549,
+          "red": 0.9647058823529412
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AEB2FB12-EA2E-449C-84F3-05C42688C9AB",
+        "name": "12. #FFC1A6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6509803921568628,
+          "green": 0.7568627450980392,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D8595C03-6E13-4902-8650-AB1FB97635B6",
+        "name": "13. #FDE4EB",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.8941176470588236,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "ABA55382-8643-4E1A-B102-FE0A23F90DFA",
+        "name": "14. #F4B6DA",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8549019607843137,
+          "green": 0.7137254901960784,
+          "red": 0.9568627450980393
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "32ECDB44-A140-4E50-A23E-DFD6CB27583F",
+        "name": "15. #DDF4ED",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9294117647058824,
+          "green": 0.9568627450980393,
+          "red": 0.8666666666666667
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "97D9DE7B-CE76-4D63-B4E7-5A5AD40A15FD",
+        "name": "16. #ACE3D1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8196078431372549,
+          "green": 0.8901960784313725,
+          "red": 0.6745098039215687
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "53AAA519-39D4-4800-8F4F-6D94518ECA4C",
+        "name": "17. #FFEFBD",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.9372549019607843,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5106F235-EF90-4DB1-AB4F-17E42CC76389",
+        "name": "18. #EFF0F5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.961,
+          "green": 0.9410000000000001,
+          "red": 0.937
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "35350616-0CE1-484A-B871-7505CA53D656",
+        "name": "19. #D8DBFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8587620680894308,
+          "red": 0.845922256097561
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C272C4AA-2841-48C0-857C-DE8E1DDBA609",
+        "name": "20. #929BE1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8823529411764706,
+          "green": 0.6078431372549019,
+          "red": 0.5725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E530D388-3AA5-4E6B-B5E0-C1AA3ABC1859",
+        "name": "21. #338715",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.08235294117647059,
+          "green": 0.5294117647058824,
+          "red": 0.2
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BAF8CED5-ACE0-45B9-A1B3-3E0D4C7BAC0B",
+        "name": "22. #499B1F",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.6078431372549019,
+          "red": 0.2862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3A6C4E2B-86CB-4845-9287-504849BBB784",
+        "name": "23. #ECF9E5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8995769619941711,
+          "green": 0.9755943417549133,
+          "red": 0.9235431551933289
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A77F1825-7DBA-452E-9E47-A70907F62B1A",
+        "name": "24. #E8BD13",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07450980392156863,
+          "green": 0.7411764705882353,
+          "red": 0.9098039215686274
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3A457CF3-80EF-46FC-869F-724AE158E3C8",
+        "name": "25. #7A7A7A",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4784313725490196,
+          "green": 0.4784313725490196,
+          "red": 0.4784313725490196
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "11C70FE9-A843-4485-A682-917AF7082A4E",
+        "name": "26. #FFF9E4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8941176470588235,
+          "green": 0.9764705882352941,
+          "red": 1
+        }
+      }
     ]
   },
   "userInfo": {
