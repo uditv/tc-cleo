@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -478,10 +477,452 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "A7624C01-67F0-4C22-9658-71DDF7EB7393",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "025ECBC2-C16D-4F92-B2F3-638B448B72A4",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Light.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "057E5ABC-9AB4-40CF-8D18-45BE224B2D3B",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "07D95095-4C61-4DD7-8075-4CEF5418DEF0",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-HairlineItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-HairlineItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0DA9647C-C10D-4177-9993-A1C07C9EE4B6",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Light.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0FAFCB49-B46F-4702-8D1A-B8591A3725ED",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Italic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1DA2705A-CAD0-4DB0-AD02-9067B33A56F3",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1DC87A9B-BB19-4854-8883-9EF058DA2906",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Overpass-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "20E3F27A-AF15-4034-97E9-DCB648EE6974",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "253B574A-C2D5-4399-9FAC-E928EC83CC0A",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "27DE4D0C-6F1C-482E-AB1A-6E8E05EA32FE",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2D792BD1-351B-4DDC-8D98-68F10F99750B",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "38192F28-25EF-4D7A-81F4-47DDECF799AA",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3948C3FD-3B0B-4773-9C27-3994430F0CFF",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3F7F1AD7-840F-4E30-941C-A7BF5D548B35",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "413CD0F4-4CC7-4085-BF4C-04F0556282A4",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-SemiboldItalic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "418F5EF8-876E-4F6E-B6D8-0760650A5347",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "42B8A55A-475A-4966-B019-6619808D7F9D",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-RegularItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "48636D67-D5FB-4874-B0EF-63260481BF6E",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "49C19514-90CE-49B3-8267-0CCFA0C7B558",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-MediumItalic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "52620A30-274C-4989-90FE-AE5E076D8E82",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5593F1E9-4ED1-4200-84D1-EA0331E62289",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Heavy.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "56D4F668-313F-4AC9-AA25-EAB435A26879",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-LightItalic.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6E1F5E6D-1974-406D-8D05-FD938BFC3668",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Hairline.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Hairline"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7495CD3B-F8C8-421B-A69A-81ADB560F63E",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "79DA44A0-3E92-4E61-93CD-73C3CDCEE20B",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-HeavyItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "81AF499A-23EE-409D-89EC-000FB6E741AE",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "86C0BA95-9310-43AE-B0FC-6754CB34BBA5",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8C48AE3C-7B9A-45FA-92F5-D4F3CCBF90E1",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "92B7362C-8550-4387-B6FD-41D434923E98",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "951A1C7A-D8A0-4489-9A26-2B6B481ED408",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9745C386-1B10-47C2-9DCC-2094142F4A12",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9783C5C1-6AED-443E-8B55-7A8608279959",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A1F194C1-5E2E-449B-A131-7C67A397844D",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-Thin.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AAB875D5-228E-4495-AA17-0FDF9C16A1DB",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-ThinItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AE59CEDA-92E1-477B-844A-04290B8690FD",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B18D8A9F-9C88-44B5-8F70-1444C55DCA4C",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BFE698B2-2B4A-43AA-AB45-427D330AAD3B",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C68948A7-D445-4BD8-A2D2-EB15A31E24ED",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C9900C8F-9FAC-4E23-95CA-CA62AA88CA7B",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D346B974-EA7B-47BC-ABA8-29960CF2B3C4",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-SemiBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E222B01B-7C25-4617-9800-852C429709C8",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Lato-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E5723F8A-A3D2-45DF-83BB-65E27354DAAC",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EA42C3DB-4AE3-4BF3-BF1A-03881EE541C8",
+      "fontFamilyName": "Lato",
+      "fontFileName": "Lato-Semibold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Lato-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ED85956D-426C-4A18-9303-7B39A9B337CB",
+      "fontFamilyName": "Overpass",
+      "fontFileName": "Overpass-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Overpass-Light"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
@@ -503,7 +944,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1204,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -3282,7 +3722,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1215,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -6066,7 +6505,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 874,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6388,7 +6826,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 879,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6705,13 +7142,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "885E692F-65EB-4C22-9658-7ADFF7CA0AFE",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "66.1",
-    "build": 97080,
-    "version": 130
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
   },
   "pages": [
     "Fragrances",
@@ -6720,7 +7158,296 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "9E526D2F-65EB-4C22-9658-7ADFF7CA04F2",
     "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "5A1D710C-2F88-47AA-AA80-BC157C0D3A28",
+        "name": "1. #FFFFFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "FC7226B4-4D71-413C-803A-B272276110D0",
+        "name": "2. #F9F9F9",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9748883928571429,
+          "green": 0.9748883928571429,
+          "red": 0.9748883928571429
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9D451A3F-48E0-4553-A93C-61BDD0729EB3",
+        "name": "3. #D5D5D5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8352941176470589,
+          "green": 0.8352941176470589,
+          "red": 0.8352941176470589
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "09D4B946-4DE2-44F1-A98A-03AD85C8BE58",
+        "name": "4. #979797",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592156862745098,
+          "green": 0.592156862745098,
+          "red": 0.592156862745098
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9AAB5F43-5EFD-40D8-A175-A266BF8E3E1A",
+        "name": "5. #8D8D8D",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5529411764705883,
+          "green": 0.5529411764705883,
+          "red": 0.5529411764705883
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B993299D-1D0C-406A-92B2-6BC3D29E6081",
+        "name": "6. #6C6C6C",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4235294117647059,
+          "green": 0.4235294117647059,
+          "red": 0.4235294117647059
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "98C42B66-737B-40D9-9EDF-1B39DE69AF40",
+        "name": "7. #4A4A4A",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2901960784313725,
+          "green": 0.2901960784313725,
+          "red": 0.2901960784313725
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "B7256159-B424-4C5B-803F-6B21EA1FF8C2",
+        "name": "8. #212121",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1294117647058823,
+          "green": 0.1294117647058823,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9C28E450-D1BD-48BF-95E4-9491C28FAA83",
+        "name": "9. #DA1C5C",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3607843137254902,
+          "green": 0.1098039215686274,
+          "red": 0.8549019607843137
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A0996B2C-CEC7-4397-8720-C5E41453FD88",
+        "name": "10. #FFEEEB",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.9333333333333333,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "816EBC5D-C97D-46F0-8F2C-90156A4F65CF",
+        "name": "11. #F6D1C1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7568627450980392,
+          "green": 0.8196078431372549,
+          "red": 0.9647058823529412
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AEB2FB12-EA2E-449C-84F3-05C42688C9AB",
+        "name": "12. #FFC1A6",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6509803921568628,
+          "green": 0.7568627450980392,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "D8595C03-6E13-4902-8650-AB1FB97635B6",
+        "name": "13. #FDE4EB",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9215686274509803,
+          "green": 0.8941176470588236,
+          "red": 0.9921568627450981
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "ABA55382-8643-4E1A-B102-FE0A23F90DFA",
+        "name": "14. #F4B6DA",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8549019607843137,
+          "green": 0.7137254901960784,
+          "red": 0.9568627450980393
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "32ECDB44-A140-4E50-A23E-DFD6CB27583F",
+        "name": "15. #DDF4ED",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9294117647058824,
+          "green": 0.9568627450980393,
+          "red": 0.8666666666666667
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "97D9DE7B-CE76-4D63-B4E7-5A5AD40A15FD",
+        "name": "16. #ACE3D1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8196078431372549,
+          "green": 0.8901960784313725,
+          "red": 0.6745098039215687
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "53AAA519-39D4-4800-8F4F-6D94518ECA4C",
+        "name": "17. #FFEFBD",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7411764705882353,
+          "green": 0.9372549019607843,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "5106F235-EF90-4DB1-AB4F-17E42CC76389",
+        "name": "18. #EFF0F5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.961,
+          "green": 0.9410000000000001,
+          "red": 0.937
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "35350616-0CE1-484A-B871-7505CA53D656",
+        "name": "19. #D8DBFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8587620680894308,
+          "red": 0.845922256097561
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "C272C4AA-2841-48C0-857C-DE8E1DDBA609",
+        "name": "20. #929BE1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8823529411764706,
+          "green": 0.6078431372549019,
+          "red": 0.5725490196078431
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "E530D388-3AA5-4E6B-B5E0-C1AA3ABC1859",
+        "name": "21. #338715",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.08235294117647059,
+          "green": 0.5294117647058824,
+          "red": 0.2
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "BAF8CED5-ACE0-45B9-A1B3-3E0D4C7BAC0B",
+        "name": "22. #499B1F",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.6078431372549019,
+          "red": 0.2862745098039216
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "3A6C4E2B-86CB-4845-9287-504849BBB784",
+        "name": "23. #ECF9E5",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8995769619941711,
+          "green": 0.9755943417549133,
+          "red": 0.9235431551933289
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "A77F1825-7DBA-452E-9E47-A70907F62B1A",
+        "name": "24. #E8BD13",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.07450980392156863,
+          "green": 0.7411764705882353,
+          "red": 0.9098039215686274
+        }
+      }
     ]
   },
   "userInfo": {

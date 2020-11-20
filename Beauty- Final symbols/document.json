@@ -850,7 +850,7 @@
       "do_objectID": "ADCCDD79-3A82-40B7-8038-8CE090E2E6EA",
       "fontFamilyName": "Optima",
       "fontFileName": "Optima-Medium.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Optima-Medium"
       ]
@@ -989,6 +989,26 @@
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "9C1A2F56-729F-4FBC-BE55-FAB044873AB9",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "FD1611DE-872A-49AE-A4BC-05E455BC6E25",
+        "name": "11. #FFFFFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      "remoteSwatchID": "DDC66056-7EF6-4F11-912E-03CEBEBDD988",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
     {
@@ -13521,8 +13541,8 @@
     ]
   },
   "meta": {
-    "appVersion": "69.1",
-    "build": 107496,
+    "appVersion": "70",
+    "build": 108797,
     "version": 134
   },
   "pages": [
