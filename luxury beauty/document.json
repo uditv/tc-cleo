@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "26076A10-E148-41CC-B743-FB401583EBC4",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -469,7 +472,7 @@
       "do_objectID": "F4AFA7CC-BC89-448F-A4BB-87EFBA2FD425",
       "fontFamilyName": "Lato",
       "fontFileName": "Lato-MediumItalic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Lato-MediumItalic"
       ]
@@ -629,6 +632,106 @@
     }
   ],
   "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "C11EAEAA-F6DA-45AF-B46D-5E8799B2ED05",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "DC26DAC4-494A-42C9-9569-F28F7589D5C8",
+        "name": "18. #C48C1F",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.5490196078431373,
+          "red": 0.7686274509803922
+        }
+      },
+      "remoteSwatchID": "CDC24644-2114-4580-9B24-F13D3BA1F304",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "95E69DBC-F0FF-4A33-8744-E5C1FB6148CE",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "D4441EC5-758F-4709-B113-8AB2D701A0A5",
+        "name": "19. #936917",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09019607843137258,
+          "green": 0.411764705882353,
+          "red": 0.5764705882352941
+        }
+      },
+      "remoteSwatchID": "0B515E02-6622-4A76-9741-25B6199CE343",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "372B8798-C4CA-4C92-B0D8-D62DEC96B6BC",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "84B90772-74A2-4C4C-B511-08F215867F2B",
+        "name": "1. #1C1A17",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09019607843137255,
+          "green": 0.1019607843137255,
+          "red": 0.1098039215686274
+        }
+      },
+      "remoteSwatchID": "EC4721B9-837D-491E-89F4-2433E6419F8C",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "D2E1B18B-844E-432C-9F63-D4835490E858",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "E3224AC7-60A6-4CDE-BBFC-6A17DAB7602F",
+        "name": "11. #FFFFFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      "remoteSwatchID": "DDC66056-7EF6-4F11-912E-03CEBEBDD988",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "C58246CF-9D17-45FA-A817-8DA3DE53B503",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "00D4D7F9-435C-4434-AB1D-D653DBC42D05",
+        "name": "23. #179342",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.5764705882352941,
+          "red": 0.09019607843137255
+        }
+      },
+      "remoteSwatchID": "9B5B9036-7EB0-4E26-88E8-09C2099512CC",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    }
   ],
   "foreignSymbols": [
     {
@@ -646,7 +749,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1204,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -3425,7 +3527,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1217,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -6209,7 +6310,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 874,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6531,7 +6631,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 880,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6858,7 +6957,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1210,
         "clippingMaskMode": 0,
         "do_objectID": "6F03B92B-FF6A-438C-AFAB-008DF1C5222D",
         "exportOptions": {
@@ -7614,7 +7712,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 1210,
         "clippingMaskMode": 0,
         "do_objectID": "6F03B92B-FF6A-438C-AFAB-008DF1C5222D",
         "exportOptions": {
@@ -8375,7 +8472,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5,
         "clippingMaskMode": 0,
         "do_objectID": "CC1B9071-6CE5-448D-9C6E-354631076892",
         "exportOptions": {
@@ -8728,7 +8824,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5,
         "clippingMaskMode": 0,
         "do_objectID": "CC1B9071-6CE5-448D-9C6E-354631076892",
         "exportOptions": {
@@ -9086,7 +9181,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5,
         "clippingMaskMode": 0,
         "do_objectID": "8783B82D-E834-4FFB-8D93-F0A56E3B05FB",
         "exportOptions": {
@@ -9416,7 +9510,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 5,
         "clippingMaskMode": 0,
         "do_objectID": "8783B82D-E834-4FFB-8D93-F0A56E3B05FB",
         "exportOptions": {
@@ -9751,7 +9844,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 98,
         "clippingMaskMode": 0,
         "do_objectID": "22A247FE-D399-4398-88E3-5884B81E225F",
         "exportOptions": {
@@ -11722,7 +11814,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 101,
         "clippingMaskMode": 0,
         "do_objectID": "22A247FE-D399-4398-88E3-5884B81E225F",
         "exportOptions": {
@@ -13698,7 +13789,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 102,
         "clippingMaskMode": 0,
         "do_objectID": "9514A5A6-F3F2-448B-BE3B-AE78836401E5",
         "exportOptions": {
@@ -14630,7 +14720,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 107,
         "clippingMaskMode": 0,
         "do_objectID": "9514A5A6-F3F2-448B-BE3B-AE78836401E5",
         "exportOptions": {
@@ -15567,7 +15656,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 450,
         "clippingMaskMode": 0,
         "do_objectID": "D19B7EA3-4FF5-4CB9-9EAF-98CE912AA5EC",
         "exportOptions": {
@@ -16441,7 +16529,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 457,
         "clippingMaskMode": 0,
         "do_objectID": "D19B7EA3-4FF5-4CB9-9EAF-98CE912AA5EC",
         "exportOptions": {
@@ -17320,7 +17407,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 7,
         "clippingMaskMode": 0,
         "do_objectID": "41252A9A-FABE-41C1-9D20-058888D583AF",
         "exportOptions": {
@@ -17921,7 +18007,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 7,
         "clippingMaskMode": 0,
         "do_objectID": "41252A9A-FABE-41C1-9D20-058888D583AF",
         "exportOptions": {
@@ -18527,7 +18612,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 41,
         "clippingMaskMode": 0,
         "do_objectID": "4A7A46A7-A57F-47BF-9F3D-68F23AE52824",
         "exportOptions": {
@@ -19222,7 +19306,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 43,
         "clippingMaskMode": 0,
         "do_objectID": "4A7A46A7-A57F-47BF-9F3D-68F23AE52824",
         "exportOptions": {
@@ -19922,7 +20005,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 11,
         "clippingMaskMode": 0,
         "do_objectID": "4CFFA43C-766F-42AE-AF92-7F3F87368653",
         "exportOptions": {
@@ -21405,7 +21487,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 11,
         "clippingMaskMode": 0,
         "do_objectID": "4CFFA43C-766F-42AE-AF92-7F3F87368653",
         "exportOptions": {
@@ -22893,7 +22974,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 39,
         "clippingMaskMode": 0,
         "do_objectID": "75D2864C-80C1-421D-8700-A59626B05207",
         "exportOptions": {
@@ -29183,7 +29263,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 41,
         "clippingMaskMode": 0,
         "do_objectID": "75D2864C-80C1-421D-8700-A59626B05207",
         "exportOptions": {
@@ -35478,7 +35557,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 26,
         "clippingMaskMode": 0,
         "do_objectID": "8AD81199-F983-450B-A077-6E68747AB67C",
         "exportOptions": {
@@ -36328,7 +36406,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 32,
         "clippingMaskMode": 0,
         "do_objectID": "8AD81199-F983-450B-A077-6E68747AB67C",
         "exportOptions": {
@@ -37183,7 +37260,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 24,
         "clippingMaskMode": 0,
         "do_objectID": "2A46399F-CC62-4036-8AC2-C13F09273C50",
         "exportOptions": {
@@ -38656,7 +38732,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 30,
         "clippingMaskMode": 0,
         "do_objectID": "2A46399F-CC62-4036-8AC2-C13F09273C50",
         "exportOptions": {
@@ -40134,7 +40209,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 53,
         "clippingMaskMode": 0,
         "do_objectID": "C7B81E41-79EB-4365-ACB1-D01187A6C1A1",
         "exportOptions": {
@@ -40778,7 +40852,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 53,
         "clippingMaskMode": 0,
         "do_objectID": "C7B81E41-79EB-4365-ACB1-D01187A6C1A1",
         "exportOptions": {
@@ -41427,7 +41500,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 2579,
         "clippingMaskMode": 0,
         "do_objectID": "6FCF7A66-C1E9-44A7-A587-C6995761B828",
         "exportOptions": {
@@ -46944,7 +47016,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 2585,
         "clippingMaskMode": 0,
         "do_objectID": "6FCF7A66-C1E9-44A7-A587-C6995761B828",
         "exportOptions": {
@@ -52466,7 +52537,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 9,
         "clippingMaskMode": 0,
         "do_objectID": "8DFC1411-628C-4980-9B25-BD3562A178E2",
         "exportOptions": {
@@ -53177,7 +53247,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 9,
         "clippingMaskMode": 0,
         "do_objectID": "8DFC1411-628C-4980-9B25-BD3562A178E2",
         "exportOptions": {
@@ -53893,7 +53962,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 18,
         "clippingMaskMode": 0,
         "do_objectID": "E9CBBCFF-2159-4DC1-B7F9-D82B0A776727",
         "exportOptions": {
@@ -54559,7 +54627,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 18,
         "clippingMaskMode": 0,
         "do_objectID": "E9CBBCFF-2159-4DC1-B7F9-D82B0A776727",
         "exportOptions": {
@@ -55230,7 +55297,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 67,
         "clippingMaskMode": 0,
         "do_objectID": "DDEAEE26-2F58-4C1D-AE91-8A7B096705B0",
         "exportOptions": {
@@ -55537,7 +55603,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 67,
         "clippingMaskMode": 0,
         "do_objectID": "DDEAEE26-2F58-4C1D-AE91-8A7B096705B0",
         "exportOptions": {
@@ -55849,7 +55914,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 230,
         "clippingMaskMode": 0,
         "do_objectID": "27691C9A-859A-4E25-969B-F898263D3DB4",
         "exportOptions": {
@@ -56930,7 +56994,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 230,
         "clippingMaskMode": 0,
         "do_objectID": "27691C9A-859A-4E25-969B-F898263D3DB4",
         "exportOptions": {
@@ -58016,7 +58079,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 11,
         "clippingMaskMode": 0,
         "do_objectID": "723835BD-0CE6-4B1A-A019-2CBFEE6D815D",
         "exportOptions": {
@@ -58297,7 +58359,6 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 11,
         "clippingMaskMode": 0,
         "do_objectID": "723835BD-0CE6-4B1A-A019-2CBFEE6D815D",
         "exportOptions": {
@@ -59272,13 +59333,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "093B4F3E-E353-41CC-B743-F04215A292A9",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "69.2",
+    "build": 107504,
+    "version": 134
   },
   "pages": [
     "Fragrances",
@@ -59287,6 +59349,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "1F374B3E-E353-41CC-B743-F04215A29CA5",
     "objects": [
     ]
   },

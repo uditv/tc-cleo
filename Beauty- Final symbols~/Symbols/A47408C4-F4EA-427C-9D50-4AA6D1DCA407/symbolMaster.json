@@ -9,7 +9,6 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5676,
   "clippingMaskMode": 0,
   "do_objectID": "A47408C4-F4EA-427C-9D50-4AA6D1DCA407",
   "exportOptions": {
@@ -33,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -93,6 +92,21 @@
       "id": "A18E6D53-0D76-4D19-A593-F1865637AFF9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 9,
+    "guttersOutside": false,
+    "horizontalOffset": 1,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 333
+  },
   "name": "o/Short story/Fragrance",
   "nameIsFixed": true,
   "overrideProperties": [
