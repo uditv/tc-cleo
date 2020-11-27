@@ -15,12 +15,12 @@
     "exportFormats": [
       {
         "_class": "exportFormat",
-        "absoluteSize": 1000,
+        "absoluteSize": 0,
         "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 2.666666666666667,
-        "visibleScaleType": 1
+        "scale": 2,
+        "visibleScaleType": 0
       }
     ],
     "includedLayerIds": [
@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4909,
+    "height": 5234,
     "width": 375,
     "x": 399,
     "y": -1691
@@ -69,12 +69,20 @@
       "id": "DD7EA31E-1014-4933-871B-557486EC2FEE"
     },
     {
-      "class": "group",
-      "id": "C41B6A79-6F68-45BB-BB79-44EB385BC9B7"
+      "class": "symbolInstance",
+      "id": "2C819D5E-D636-48DD-8640-0F7F88DF95C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0113D8B3-751E-4F2C-8414-B328DF702B95"
     },
     {
       "class": "symbolInstance",
       "id": "541E8689-18DA-4A79-AD46-4FD7D7CA0C9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84D35633-AAE7-4F23-99E2-AC1311D08E9D"
     },
     {
       "class": "symbolInstance",
@@ -118,7 +126,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "066DCF65-B027-407F-8BC8-26F7F63CCACA"
+      "id": "A7EBD7CE-7B69-4CE7-9351-0F77DCEB7F09"
     },
     {
       "class": "symbolInstance",
@@ -129,20 +137,20 @@
       "id": "13D472CF-46E7-4B78-ABD1-2181CD443F76"
     },
     {
-      "class": "group",
-      "id": "3013AD65-46A9-4FBC-88C0-8A90188C5D8F"
-    },
-    {
-      "class": "group",
-      "id": "AC58EF36-1581-4513-AD9D-D665F02F4EE6"
-    },
-    {
       "class": "symbolInstance",
       "id": "3E71ADF5-5DE1-482B-A4B9-21AA2A1ECEC1"
     },
     {
       "class": "symbolInstance",
       "id": "6CE3C940-626F-4A1E-852F-8417DDE13342"
+    },
+    {
+      "class": "group",
+      "id": "3013AD65-46A9-4FBC-88C0-8A90188C5D8F"
+    },
+    {
+      "class": "group",
+      "id": "AC58EF36-1581-4513-AD9D-D665F02F4EE6"
     }
   ],
   "name": "Makeup PDP",

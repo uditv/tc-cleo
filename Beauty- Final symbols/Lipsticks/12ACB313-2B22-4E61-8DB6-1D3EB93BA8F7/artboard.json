@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3984,
+    "height": 3954,
     "width": 375,
     "x": -986,
     "y": 5040
@@ -58,10 +58,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "640CEA22-58B2-470E-B404-1F7E67AEB1DB"
-    },
     {
       "class": "group",
       "id": "078AFBE0-8FAE-4F65-AB56-31E80F15C708"
@@ -93,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "1978AC36-2D70-4A80-B6C2-45C19FA3E456"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4136DE7F-E393-41F6-BD6F-85B739BB869F"
     },
     {
       "class": "group",
@@ -167,8 +167,16 @@
       "id": "FA21EFAC-AB97-4F2C-9CF7-F22AE77A6001"
     },
     {
+      "class": "rectangle",
+      "id": "6E43F48E-E7AE-4A6B-9CA9-B95E3CE5D25F"
+    },
+    {
+      "class": "group",
+      "id": "0A0D44AD-DFBB-4E6E-ADF6-5EF482FCE8A7"
+    },
+    {
       "class": "symbolInstance",
-      "id": "0FB06ED5-D663-4634-8044-7C7BD2E30845"
+      "id": "1003C7E5-63D4-46E6-BA5B-4608D1E45A3A"
     }
   ],
   "name": "PLP Lips",

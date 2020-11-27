@@ -72,8 +72,8 @@
       "id": "C970C50B-3F59-4E51-BFDA-4D94B47B886A"
     },
     {
-      "class": "group",
-      "id": "ADC7EEA8-E870-4B80-8CD9-6BDE17DE133E"
+      "class": "symbolInstance",
+      "id": "0C099CB0-6039-4893-BDCA-92709AA5A505"
     },
     {
       "class": "symbolInstance",
@@ -114,6 +114,11 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "0C099CB0-6039-4893-BDCA-92709AA5A505_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "11F1F4DC-A59A-4E17-BC18-CD30FECAC0EA_symbolID"
     },
     {
@@ -140,11 +145,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "0A9DECF6-75E7-4714-820D-7CF27D149434_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "52455E4E-8AB1-41C8-A42F-CB3674BD873F_image"
     }
   ],
   "presetDictionary": {

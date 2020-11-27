@@ -46,7 +46,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Medium",
+              "name": "PingFangSC-Light",
               "size": 12
             }
           },
@@ -76,6 +76,36 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "Rubik-Light",
+              "size": 12
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 5,
+        "location": 16
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9748883928571429,
+            "green": 0.9748883928571429,
+            "red": 0.9748883928571429
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Rubik-Medium",
               "size": 12
             }
@@ -90,8 +120,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
-        "location": 16
+        "length": 7,
+        "location": 21
       }
     ],
     "string": "Add item worth ₹3,527 to Bag"
@@ -114,11 +144,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 12,
-    "width": 172,
-    "x": 32,
+    "width": 169,
+    "x": 33.5,
     "y": 12
   },
-  "glyphBounds": "{{0, 1}, {171, 12}}",
+  "glyphBounds": "{{0, 1}, {168, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
