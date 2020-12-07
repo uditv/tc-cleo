@@ -1,28 +1,11 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4A0367EA-7DE7-4EA7-95A8-DA0CEED31181",
+  "do_objectID": "463CA90C-42F6-452A-8469-DDE4DA428690",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "svg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,50 +15,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 20,
-    "x": 12331,
-    "y": -54
+    "height": 26,
+    "width": 8,
+    "x": 6,
+    "y": 2
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "8AC378BF-4BE0-4DA6-87AB-A252FC0FE7F8"
+    },
+    {
+      "class": "rectangle",
+      "id": "C873C52C-262A-4B7D-9F47-9ED6B0E406D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "E24CE56C-41E2-4EA6-ADFA-55F92C5CE6F8"
+    },
+    {
       "class": "group",
-      "id": "CCB72F5A-2AFA-4905-AD9F-792E2688659C"
+      "id": "AE08207A-B1E2-49ED-B00F-DDEBE4A5A892"
+    },
+    {
+      "class": "rectangle",
+      "id": "214B5594-CC14-410E-87C1-E53B63B331B6"
     }
   ],
-  "name": "a/icon/lipstick/l",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -110,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "1EA09DE0-8E18-4B2D-B104-C4781EE4B62C",
+    "do_objectID": "D8A29E30-4783-4393-9AA1-38AC63846FC3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,12 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "E162FF69-92E3-42E0-AD45-6FE289D92AE4",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
