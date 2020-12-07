@@ -850,7 +850,7 @@
       "do_objectID": "ADCCDD79-3A82-40B7-8038-8CE090E2E6EA",
       "fontFamilyName": "Optima",
       "fontFileName": "Optima-Medium.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Optima-Medium"
       ]
@@ -1006,6 +1006,106 @@
         }
       },
       "remoteSwatchID": "DDC66056-7EF6-4F11-912E-03CEBEBDD988",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "01E2906E-D344-42BD-9350-C3857CF94561",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "95C9F752-8486-46F8-8C13-A8A5AC9B14CF",
+        "name": "4. #605F5D",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3647058823529412,
+          "green": 0.3725490196078431,
+          "red": 0.3764705882352941
+        }
+      },
+      "remoteSwatchID": "259EC8F9-33B3-42A9-922B-6E5120752DCF",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "43274FF8-5600-4918-84B1-4858CDBE4B0F",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "CFDD6561-945D-4B21-9584-04E7935E487F",
+        "name": "5. #767573",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4509803921568628,
+          "green": 0.4588235294117647,
+          "red": 0.4627450980392157
+        }
+      },
+      "remoteSwatchID": "496120B3-F515-4B41-8DA6-2DA3CF6745ED",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "970D3BB3-339C-4371-9082-44A8ADC3EC9E",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "4445B358-A892-4A87-9367-3F57F5F0E7E3",
+        "name": "6. #8D8C8B",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5450980392156862,
+          "green": 0.5490196078431373,
+          "red": 0.5529411764705883
+        }
+      },
+      "remoteSwatchID": "D485B1F0-FF48-4556-B75A-4999DB0E99C9",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "6C2A9428-E034-47B0-8697-7F17F6DBF5D4",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "DAFE6E0A-B835-4E9D-85DB-87CA302C8ECC",
+        "name": "7. #A4A3A2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6352941176470588,
+          "green": 0.6392156862745098,
+          "red": 0.6431372549019608
+        }
+      },
+      "remoteSwatchID": "E09ECA54-7F2E-47D0-A3EF-3C859884DE50",
+      "sourceLibraryName": "Lux Desktop Styleguide",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "B7842751-0894-4BDB-81DD-E827C6833241",
+      "libraryID": "4D9B8DD8-15D5-405C-B170-C9E48476EB79",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "32E202E5-C3DD-4AAE-8B85-4ABBA89061D2",
+        "name": "3. #494745",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2705882352941176,
+          "green": 0.2784313725490196,
+          "red": 0.2862745098039216
+        }
+      },
+      "remoteSwatchID": "0C5BE0B8-7859-4FA4-9517-37DC1F40FC41",
       "sourceLibraryName": "Lux Desktop Styleguide",
       "symbolPrivate": false
     }
@@ -13541,8 +13641,8 @@
     ]
   },
   "meta": {
-    "appVersion": "70",
-    "build": 108797,
+    "appVersion": "70.2",
+    "build": 109071,
     "version": 134
   },
   "pages": [
