@@ -17,14 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Medium",
-              "size": 11
+              "size": 12
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -51,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 56,
-    "x": 8,
-    "y": 78
+    "height": 42,
+    "width": 59,
+    "x": 6,
+    "y": 76
   },
-  "glyphBounds": "{{3, 2}, {51, 35}}",
+  "glyphBounds": "{{2, 2}, {55, 38}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -129,14 +131,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Medium",
-            "size": 11
+            "size": 12
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -144,5 +148,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
